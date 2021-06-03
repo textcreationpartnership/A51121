@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Myskotomia, or, The anatomical administration of all the muscles of an humane body, as they arise in dissection as also an analitical table, reducing each muscle to his use and part / collected for private use, by William Molins ... ; and published for the general good of all practitioners in the said art.</title>
+            <author>Molins, William.</author>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51121</idno><idno type="EEBO-CITATION">19498877</idno>
+  <idno type="VID">108870</idno>
+  <idno type="EEBO-PROQUEST">2248570451</idno>
+  
+            <idno type="STC">Wing M2389</idno>
+            <idno type="STC">ESTC R40647</idno>
+            <idno type="OCLC">19498877</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1675:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Myskotomia, or, The anatomical administration of all the muscles of an humane body, as they arise in dissection as also an analitical table, reducing each muscle to his use and part / collected for private use, by William Molins ... ; and published for the general good of all practitioners in the said art.</title>
+                  <author>Molins, William.</author>
+               </titleStmt>
+               <extent>[14], 111 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Edward Husband ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title in Greek lettering.</note>
+                  <note>Includes index.</note>
+                  <note>Reproduction of original in the Hunterian Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Muscles --  Early works to 1800.</term>
+               <term type="topical_term">Anatomy.</term>
+               <term type="topical_term">Human dissection.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:108870:1"/>
+            <p>ΜΥΣΚΟΤΟΜΙΑ: OR, THE ANATOMICAL Administration Of all the MUSCLES Of an Humane BODY, As they arise in <hi>Dissection.</hi>
+            </p>
+            <p>As also an Analitical TABLE, reducing each Muscle to his Use and Part.</p>
+            <p>Collected for Private use, By WILLIAM MOLINS Mr. in Chyrurgery: And Published for the general good of all Practitioners in the said Art.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, and are to be sold at his Shop at the golden Dragon in Fleetstreet near the Middle Temple. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:108870:2"/>
+            <pb facs="tcp:108870:2"/>
+            <head>To all his <hi>Brethren in Chyrurgery,</hi> AND All others who affect Anatomical Dissection.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His which I present you with at present, is not to inform you, but to invite you to second me, and in that to better me upon this deser<g ref="char:EOLhyphen"/>ving Theme Had I either Talents or Time to have wrought this up to a Book, which is but now an <hi>A.B.C.</hi>
+               <pb facs="tcp:108870:3"/> I had not wanted worthy men to have been bold with to have stood for my <hi>Wit<g ref="char:EOLhyphen"/>nesses;</hi> more especially that Gentleman who hath really enabled the Masters of Ana<g ref="char:EOLhyphen"/>tomy in particular (as well as the Company in general) to go through not onely the Charge (a great Encourage<g ref="char:EOLhyphen"/>ment now a days) but the Dissection it self, by pro<g ref="char:EOLhyphen"/>viding an able Physician, whose Science might give life to our Art, and whose Tongue might direct our Hand, that so the Learner might at once both know what was Dissected, and see how it was done: And truly,
+<pb facs="tcp:108870:3"/> had our Company many of the same temper, we might soon be Lenders, that have been so long Borrowers, and be Judges our selves of Truth and Error in this My<g ref="char:EOLhyphen"/>stery. Next to him, the two old Masters equally deserve, as having first entred this Labyrinth, and managed their Clew of Directions for the extricating themselves there, where so many have been lost; But I must not be bold to have such great Gos<g ref="char:EOLhyphen"/>sips to so mean a Brat,
+<q xml:lang="lat">—Mihi curta Supellex.</q> If any of those many a<g ref="char:EOLhyphen"/>mong you, who (as <hi>Eras<g ref="char:EOLhyphen"/>mus</hi> saith of our English<g ref="char:EOLhyphen"/>men)
+<pb facs="tcp:108870:4"/> are <hi>Ingeniosi, utinam &amp; laboriosi,</hi> will mend me by doing more, I shall com<g ref="char:EOLhyphen"/>mend my self for doing this little to provoke you to so good a work: When any of your Suns shall arise, my little Star shall pull in his head; till then, if it give any light at all, I have my aym. Farewel.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:108870:4"/>
+            <head>The Names of the Muscles as they rise in <hi>Dissection.</hi>
+            </head>
+            <list>
+               <item>OBliquus Descendens.</item>
+               <item>Obliquus Ascendens.</item>
+               <item>Rectus.</item>
+               <item>Piramidalis.</item>
+               <item>Transversalis.</item>
+               <item>Frontalis.</item>
+               <item>Aperiens palpebram Rectus.</item>
+               <item>Claudens occulum Superior.</item>
+               <item>Claudens occulum Inferior.</item>
+               <item>Recti quatuor occuli.</item>
+               <item>Obliquus primus occuli.</item>
+               <item>Obliquus secundus occuli.</item>
+               <item>Attollens Aurem.</item>
+               <item>Detrahens Aurem.</item>
+               <item>Adducens Aurem.</item>
+               <item>Abducens Aurem.</item>
+               <item>Internus externus Auris.</item>
+               <item>Internus internissimus Auris.</item>
+               <item>Abducens Nasi Alas.</item>
+               <item>Attollens Nasi Alas.</item>
+               <item>Claudens Nasum externus.</item>
+               <item>Claudens Nasum internus.</item>
+               <item>Communis Claudens Alas.</item>
+               <pb facs="tcp:108870:5"/>
+               <item>Zygomaticus Riolani.</item>
+               <item>Abducens labia.</item>
+               <item>Deprimens labii inferius.</item>
+               <item>Constringens labios.</item>
+               <item>Platasma Muodes.</item>
+               <item>Buccinator.</item>
+               <item>Massetor.</item>
+               <item>Temporalis.</item>
+               <item>Mastoideus.</item>
+               <item>Biventer sive digastricus.</item>
+               <item>Caracohyoideus.</item>
+               <item>Sternohyoideus.</item>
+               <item>Sternothyroideus.</item>
+               <item>Hyothyroideus.</item>
+               <item>Styloceratohyoideus.</item>
+               <item>Mylohyoideus.</item>
+               <item>Geniohyoideus.</item>
+               <item>Myloglossus.</item>
+               <item>Ceratoglossus.</item>
+               <item>Genioglossus.</item>
+               <item>Hypsioglossus.</item>
+               <item>Styloglossus.</item>
+               <item>Lingualis.</item>
+               <item>Cricothyroideus Anticus.</item>
+               <item>Oesophagiaeus.</item>
+               <item>Stylopharyngaeus.</item>
+               <item>Cephalopharyngaeus.</item>
+               <item>Cricoarytenoideus posticus.</item>
+               <item>Cricoarytenoideus lateralis.</item>
+               <item>Arytenoideus.</item>
+               <pb facs="tcp:108870:5"/>
+               <item>Thyroarytenoideus.</item>
+               <item>Sphaenopharyngaeus primus.</item>
+               <item>Sphaenopharyngaeus secundus.</item>
+               <item>Pterigoeideus externus.</item>
+               <item>Pterigoeideus internus.</item>
+               <item>Longus.</item>
+               <item>Scalenus sive Triangularis.</item>
+               <item>Pectoralis.</item>
+               <item>Subclavius.</item>
+               <item>Serratus Major Anticus.</item>
+               <item>Serratus Minor Anticus.</item>
+               <item>Intercostales externi.</item>
+               <item>Intercostales interni.</item>
+               <item>Cremasteres.</item>
+               <item>Erector penis.</item>
+               <item>Accelarator penis.</item>
+               <item>Levatores Ani.</item>
+               <item>Sphincter Ani.</item>
+               <item>Sphincter Vesicae.</item>
+               <item>Detrusor Ʋrinae.</item>
+               <item>Diaphragma.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>Here let the Body be turned upon its face.</head>
+            <list>
+               <item>CƲccularis.</item>
+               <item>Latissimus.</item>
+               <item>Rhomboides.</item>
+               <item>Levator Patientiae.</item>
+               <pb facs="tcp:108870:6"/>
+               <item>Rotundus.</item>
+               <item>Superscapularis superior.</item>
+               <item>Superscapularis inferior.</item>
+               <item>Nonus Humeri Placentini.</item>
+               <item>Subscapularis.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>If you please to take off the whole Arm with the <hi>Scapu<g ref="char:EOLhyphen"/>la</hi> now, the Dissection of these following Muscles will be the easier perform'd.</head>
+            <list>
+               <item>DEltois.</item>
+               <item>Biceps.</item>
+               <item>Octavus Humeri Placentini.</item>
+               <item>Brachieus.</item>
+               <item>Gemellus Major.</item>
+               <item>Gemellus Minor.</item>
+               <item>Palmaris.</item>
+               <item>Caro Musculosa quadrata.</item>
+               <item>Flexor Carpi interior.</item>
+               <item>Flexor Carpi exterior.</item>
+               <item>Flexor secundi internodii perforatus.</item>
+               <item>Flexor tertii internodii perforans.</item>
+               <item>Flexor tertii internodii pollicis.</item>
+               <item>Pronator Radii Teres.</item>
+               <item>Pronator Quadratus.</item>
+               <item>Flexores primi internodii digitorum.</item>
+               <item>Flexor primi internodii pollicis primus.</item>
+               <pb facs="tcp:108870:6"/>
+               <item>Flexor ejusdem secundus.</item>
+               <item>Flexor secundi internodii pollicis primus
+<list>
+                     <item>secundus.</item>
+                     <item>tertius.</item>
+                     <item>quartus.</item>
+                  </list>
+               </item>
+               <item>Abductor minimi digitorum.</item>
+               <item>Pollicis Abductor.</item>
+               <item>Pollicis Adductor.</item>
+               <item>Interossei interiores.</item>
+               <item>Extensor Carpi exterior.</item>
+               <item>Extensor Carpi interior.</item>
+               <item>Extensor <hi>2<seg rend="sup">di</seg>
+                  </hi> &amp; <hi>3<seg rend="sup">ii</seg>
+                  </hi> internodii digitorum</item>
+               <item>Extensor minimi digitorum.</item>
+               <item>Supinator Radii Longus.</item>
+               <item>Extensor Pollicis ossis tertii.</item>
+               <item>Extensor secundi &amp; tertii Pollicis.</item>
+               <item>Abducens indicem.</item>
+               <item>Supinator Radii Brevis.</item>
+               <item>Extensores primi internodii.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>Here you return to the Body it self as it lyes.</head>
+            <list>
+               <item>SErratus posticus superior.</item>
+               <item>Serratus posticus inferior.</item>
+               <item>Splenius sive Triangularis.</item>
+               <item>Trigeminus.</item>
+               <item>Transversalis.</item>
+               <item>Spinatus.</item>
+               <pb facs="tcp:108870:7"/>
+               <item>Recti Majores.</item>
+               <item>Recti Minores.</item>
+               <item>Obliqui superiores.</item>
+               <item>Obliqui inferiores.</item>
+               <item>Dorsi Longissimus.</item>
+               <item>Sacrolumbus.</item>
+               <item>Sacer.</item>
+               <item>Semispinatus.</item>
+               <item>Quadratus.</item>
+               <item>Psoas.</item>
+            </list>
+         </div>
+         <div type="part">
+            <head>Now if you please to take off the Thigh from the Trunk of the Body, by dividing the <hi>Os Ileon</hi> from the <hi>Os Sa<g ref="char:EOLhyphen"/>crum,</hi> the Dissection of the subsequent Muscles will be the better performed.</head>
+            <list>
+               <item>Illiacus internus.</item>
+               <item>Gluteus Major.</item>
+               <item>Gluteus Medius.</item>
+               <item>Gluteus Minor.</item>
+               <item>Piriformis.</item>
+               <item>Obturator internus.</item>
+               <item>Quadrageminus.</item>
+               <item>Obturator externus.</item>
+               <pb facs="tcp:108870:7"/>
+               <item>Membranosus.</item>
+               <item>Sartorius.</item>
+               <item>Gracilis.</item>
+               <item>Rectus.</item>
+               <item>Vastus externus.</item>
+               <item>Vastus internus.</item>
+               <item>Biceps.</item>
+               <item>Semimembranosus.</item>
+               <item>Seminervosus.</item>
+               <item>Triceps.</item>
+               <item>Lividus.</item>
+               <item>Gasterocnemius externus.</item>
+               <item>Plantaris.</item>
+               <item>Gasterocnemius internus.</item>
+               <item>Suppopliteus.</item>
+               <item>Flexor tertii internodii perforans.</item>
+               <item>Tibiaeus Posticus.</item>
+               <item>Flexor Pollicis.</item>
+               <item>Flexor secundi internodii perforatus.</item>
+               <item>Flexor primi internodii digitorum.</item>
+               <item>Abducens Pollicem.</item>
+               <item>Abducens minimum Digitorum.</item>
+               <item>Transversalis Placentini.</item>
+               <item>Tibiaeus Anticus.</item>
+               <item>Peroneus primus.</item>
+               <item>Peroneus secundus.</item>
+               <item>Extensor Pollicis.</item>
+               <item>Extensor secundi internodii digitorum.</item>
+               <item>Interossei.</item>
+            </list>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:108870:8"/>
+            <pb n="1" facs="tcp:108870:8"/>
+            <head>AN INTRODUCTION.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Muscle is an Organical part of our Body, appointed to a voluntary contraction to<g ref="char:EOLhyphen"/>wards its Original, for the motion of the part into which it is inserted, and of which part it is called the Muscle.</p>
+            <p>His action is properly <hi>Contraction.</hi>
+            </p>
+            <p>His Motions four:
+<list>
+                  <item>1. <hi>Contraction.</hi>
+                  </item>
+                  <item>2. The <hi>Conservation</hi> of that or Tonick motion.</item>
+                  <item>3. <hi>Relaxation.</hi>
+                  </item>
+                  <item>4. The <hi>Perseverance</hi> of that Relax<g ref="char:EOLhyphen"/>ation.</item>
+               </list>
+            </p>
+            <p>Each of these Motions have their ex<g ref="char:EOLhyphen"/>treme and middle Figure.</p>
+            <p>His Composition is of two parts, <hi>Dis<g ref="char:EOLhyphen"/>similer</hi> and <hi>Similer.</hi>
+            </p>
+            <p n="1">1. The first consisting of the beginning, end, and middle of the Muscle.</p>
+            <p n="2">2. The second in (these seven) Veins,
+<pb n="2" facs="tcp:108870:9"/> Arteries, Nerves, Membrains and Fat, which are called Common, and Flesh, and Tendon proper.</p>
+            <p>
+               <hi>Musculus Flesh</hi> is the most peculiar and perfectest kinde of flesh, made out of coacted Blood by heat, adhering to the Fibers by one onely and simple or<g ref="char:EOLhyphen"/>der, according to its Longitude; its use being to stuff out the divided Tendons.</p>
+            <p>A <hi>Tendon</hi> is a similary part, simple and of its own kinde, diffused through the whole Body of the Muscle, according to its Longitude, and is sometimes uni<g ref="char:EOLhyphen"/>ted, then again divided, stuffed with flesh; and seeing it is most adapted to Contra<g ref="char:EOLhyphen"/>ction, being at our pleasure contracted, it moves at the same time the part into which it is inserted.</p>
+            <p>From hence it is concluded, That a Muscle is the true Organ of voluntary Motion, as having these four parts to make it up:</p>
+            <p n="1">1. First, The Tendon, now united, then divided, which by and with himself contracts not onely the whole Muscle, but the part into which it is inserted, and from which primarily the action is.</p>
+            <p n="2">2. Secondly, The Nerve, without which the action cannot be done.</p>
+            <p n="3">
+               <pb n="3" facs="tcp:108870:9"/>3. Thirdly, The Flesh helping Contra<g ref="char:EOLhyphen"/>ction. And</p>
+            <p n="4">4. Fourthly, For its conservation, the Veins nourish, the Arteries bring life, the Membrains defend and cover, and the Fat does not onely moisten, but adapts the part for motion.</p>
+            <p>In which motion the Muscle acts, the Nerve brings the faculty, and the Brain transmits it.</p>
+            <p>The several differences of Muscles are these:</p>
+            <p n="1">1. First, From the whole body of the Muscle, and to this relate the differences that arise either from Substance, Figure, Magnitude, Number or Site.</p>
+            <p n="2">2. Secondly, From the dissimiler parts, and to these relate those that are distin<g ref="char:EOLhyphen"/>guished either by their Head, Belly or Tail.</p>
+            <p n="3">3. Thirdly, From his similer parts, and those that arise from hence are ei<g ref="char:EOLhyphen"/>ther from the Tendon, Veins, Nerves, Arteries or Membrains, Flesh not af<g ref="char:EOLhyphen"/>fording any difference.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb n="4" facs="tcp:108870:10"/>
+               <head>THE MUSCLES themselves as they arise.</head>
+               <div type="section">
+                  <head>Obliquus Descendens</head>
+                  <p>ARiseth fleshy from the lower parts of the sixth, seventh, eighth and ninth Ribs, indenting himself with <hi>Se<g ref="char:EOLhyphen"/>ratus Major Anticus;</hi> as also membra<g ref="char:EOLhyphen"/>nous from the Transverse proceses of the Vertebres of the loyns, and part of the <hi>Os Ileon,</hi> and so runs by a broad nervous Tendon to the <hi>Linea alba</hi> and <hi>Os pubis,</hi> tis difficult to remove the Tendon of this Muscle from the subjacent Tendon as soon as you come to the <hi>Rectus</hi> without laceration: To dissect this Muscle exact<g ref="char:EOLhyphen"/>ly, you divide the <hi>Latissimus</hi> from him very low, that so you may come at his Lumbal origination the better.</p>
+               </div>
+               <div type="section">
+                  <pb n="5" facs="tcp:108870:10"/>
+                  <head>Obliquus Ascendens</head>
+                  <p>ARiseth fleshy from the Appendix of the <hi>Os Ileon,</hi> and membranous from the proceses of the same Vertebres as the former, and so ascending fleshy, inserts himself into the 11 and 12 Ribs; then extending himself into a large double Tendon (in which the <hi>Rectus</hi> is conveyed) proceeds to the <hi>Linea alba,</hi> and <hi>Semi lu<g ref="char:EOLhyphen"/>nari</hi> Membrain, and is implanted into the 8, 9 and 10 Ribs. Observe, that this Muscle is best raised, by finding the Nerve that runs between this and the Transverse at his origination from <hi>Os Ileon.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Rectus</head>
+                  <p>ARiseth from the <hi>Os pubis,</hi> and running according to the longitude of the bo<g ref="char:EOLhyphen"/>dy, is inserted into the sides of the Ster<g ref="char:EOLhyphen"/>non where the last true Ribs have their Cartilages; The intersections are various, now 3, then 4, and sometimes 3 and a half, sometimes all above, sometimes some be<g ref="char:EOLhyphen"/>low, as also the <hi>Anastomasis</hi> of the Mam<g ref="char:EOLhyphen"/>milary vessels external, and Epigastrick in<g ref="char:EOLhyphen"/>ternal, always found in women, rarely in men; as also the multitude of Nerves sent to the Perigraphs is very observable: if you finde four Perigraphs, the <hi>Piramidals</hi> are wanting.</p>
+               </div>
+               <div type="section">
+                  <pb n="6" facs="tcp:108870:11"/>
+                  <head>Piramidalis sive Falopii</head>
+                  <p>ARiseth from the external part of the <hi>Os pubis,</hi> broad and fleshy, and run<g ref="char:EOLhyphen"/>ning something below the <hi>Rectus,</hi> is in<g ref="char:EOLhyphen"/>serted by a long and round Tendon, into the <hi>Lineae alba.</hi> These are sometimes wanting in such persons as have the origi<g ref="char:EOLhyphen"/>nation of the ascendent not from the <hi>Ile<g ref="char:EOLhyphen"/>on,</hi> but from the strong ligament which runs from the <hi>Spine</hi> up to the <hi>Os pubis</hi> internal, and have four Perigraphs in the <hi>Rectus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Transversalis</head>
+                  <p>ARiseth with a nervous Membrain from the same ligament as the former; as also with a fleshy origination from the internal part of the bastard Ribs, and terminates in a broad Tendon at the semi<g ref="char:EOLhyphen"/>lunary Membrains, the <hi>Linea alba,</hi> and so down to the <hi>Os pubis,</hi> he adheres firmly to the subjacent <hi>Peritoneum</hi> in a maner all along, onely near the <hi>Pubis</hi> he divides himself. It is to be observed, That all the Muscles (except the <hi>Rectus</hi> and <hi>Pirami<g ref="char:EOLhyphen"/>dal</hi>) in their Tendons, have a double per<g ref="char:EOLhyphen"/>foration, one for the umbelical vessels, the other for the seminary vessels in a man, and in a woman for the insertion of the rotund ligament of the Matrix into <hi>Os pubis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="7" facs="tcp:108870:11"/>
+                  <head>Frontalis</head>
+                  <p>ARiseth from the most elated part of the forehead, where the hair ends near the Temporal Muscle, and where the carnous Membrain adheres most firmly to the <hi>Cranium,</hi> and running downright, is inserted into the skin that covers the Eyes, and into the Eye<g ref="char:EOLhyphen"/>brows. In raising this from the <hi>Crani<g ref="char:EOLhyphen"/>um,</hi> you shall finde Nerves that are sent through the <hi>Cranium</hi> to him.</p>
+               </div>
+               <div type="section">
+                  <head>Aperiens palpebram Rectus</head>
+                  <p>ARiseth from the upper orbite of the Eye internal, near the <hi>Elevator</hi> of the Eye, where the optick Nerve hath his transmission, and holds the same course, and is of the same figure and substance, till he inlargeth himself into a broad Tendon, and is inserted into the Cartilage of the upper Eye-lid, accord<g ref="char:EOLhyphen"/>ing to his dimension; not to be shown, but with the other Muscles of the Eye, after he is taken out of the <hi>Cranium.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="8" facs="tcp:108870:12"/>
+                  <head>Claudens sive Semicircularis superior Deprimens</head>
+                  <p>ARiseth with a sharp beginning from the internal angle of the Eye, and from part of the Eyebrow near the Nose, and so falls something transverse toward the external angle of the Eye, becoming fleshy, and so broad, that he possesseth the whole space between the Eyebrow and the Cartalage, out of which the hairs of the Eyebrow grow, and is inserted into the external angle of the Eye.</p>
+               </div>
+               <div type="section">
+                  <head>Inferior sive Attollens Semicircularis</head>
+                  <p>ARiseth, being membranous and thin, from the top of the Nose near the angle of the lower Eye-lid, with a sharp point, and carried transversly about the middle of the lid, becomes fleshy, and is inserted into the same angle as the other. The question stands undecided among Authors, Whether these two Muscles be not properly one, and that <hi>orbicularis,</hi> and for the most part is so re<g ref="char:EOLhyphen"/>ceived; though the one doth depress, and the other at<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oll at the same time, to make a perfect close over the Eye.</p>
+               </div>
+               <div type="section">
+                  <pb n="9" facs="tcp:108870:12"/>
+                  <head>Rectus occuli primus sive Elevator</head>
+                  <p>ARiseth from the upper part of the Orbite of the Eye, near where the optick Nerve comes forth, and is insert<g ref="char:EOLhyphen"/>ed into the Coat called <hi>Cornea</hi> of the Eye, where it is clear, and near the <hi>Iris,</hi> by a thin and membranous Tendon.</p>
+               </div>
+               <div type="section">
+                  <head>Rectus secundus sive Depressor</head>
+                  <p>ARiseth in the inferior and opposite part, of the same Cavity, and hath his insertion as the former.</p>
+               </div>
+               <div type="section">
+                  <head>Rectus tertius sive Adducens</head>
+                  <p>ARiseth from the Orbite of the Eye, near the origination of the Levator, and is inserted as the former.</p>
+               </div>
+               <div type="section">
+                  <head>Rectus quartus sive Abducens</head>
+                  <p>ARiseth from the external angle of the Eye, and is inserted as the for<g ref="char:EOLhyphen"/>mer.</p>
+               </div>
+               <div type="section">
+                  <pb n="10" facs="tcp:108870:13"/>
+                  <head>Obliquus primus occuli</head>
+                  <p>ARiseth from a Chinck which is in the lower part of the Orbite of the Eye, in his origination fleshy, small, and not altogether round, and is carried oblique<g ref="char:EOLhyphen"/>ly in his whole course, and ascending by degrees to the upper part of the Eye, is there inserted by a short, and sometimes round, but nervous Tendon, between the Tendons of the Attollent and Abducent Muscle, where the Tendon of the other oblique Muscle hath also his insertion, and they seem to be both one.</p>
+               </div>
+               <div type="section">
+                  <head>Obliquus secundus sive Trocheus</head>
+                  <p>ARiseth from the same place with the Abducent, and goes in a right line to the external part of the internal angle, where it grows indifferently thick, and is then attenuated, and grows round, and goes through a Pully there planted, which so soon as it hath passed, it bends, yet so, as that it makes the right angle of the Eye, and running upward, begins to grow oblique, and going over the <hi>Le<g ref="char:EOLhyphen"/>vator,</hi> is inserted between the Abducent and oblique, as is before described.</p>
+               </div>
+               <div type="section">
+                  <pb n="11" facs="tcp:108870:13"/>
+                  <head>Attollens Aurem</head>
+                  <p>ARiseth from the external termina<g ref="char:EOLhyphen"/>tion of the Frontal Muscle, and so being thin and membranous, is carried over the Temporal, and is inserted (growing narrower) into the upper part of the Ear; This Muscle must be raised afore <hi>Frontalis</hi> be thrown down, and not onely this, but all the other external were dissected in this Body.</p>
+               </div>
+               <div type="section">
+                  <head>Detrahens Aurem</head>
+                  <p>ARiseth fleshy, broad (and firbrous sometimes) from the backward part of the Head, near the Mammillary pro<g ref="char:EOLhyphen"/>cess, and so growing narrower in his progress, is inserted into the whole Grille that encompasseth the Ear. Be careful in raising the <hi>Cutis,</hi> lest you take up this Muscle, and so lose him.</p>
+               </div>
+               <div type="section">
+                  <pb n="12" facs="tcp:108870:14"/>
+                  <head>Adducens Aurem ad Anteriora</head>
+                  <p>IS a Particle of that Muscle called <hi>Pla<g ref="char:EOLhyphen"/>tasma Muodes,</hi> from whose insertion you shall finde a fleshy and fibrous Elon<g ref="char:EOLhyphen"/>gation implanted into the root of the Ear.</p>
+               </div>
+               <div type="section">
+                  <head>Abducens ad Posteriora Aurem</head>
+                  <p>ARiseth above the Mammillary pro<g ref="char:EOLhyphen"/>cess from a knot of Muscles in the <hi>Occiput,</hi> with a narrow beginning, and being carried transversly downwards, is inserted into the hinder part of the Ear.</p>
+               </div>
+               <div type="section">
+                  <head>Internus externus Auri</head>
+                  <p>ARiseth small from the internal mem<g ref="char:EOLhyphen"/>branous skin of the <hi>Meatus audito<g ref="char:EOLhyphen"/>rius,</hi> and becoming fleshy, is inserted externally by a short Tendon into the <hi>Timpanum.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="13" facs="tcp:108870:14"/>
+                  <head>Internus intermissimus Auri</head>
+                  <p>BEing within the <hi>Os Petrosum</hi> hath his origination from the Basis of <hi>Os Cunei formis,</hi> and so becoming fleshy, though thin and small, and having made half his progress, divides himself into two very small and tender Tendons, the one of which is implanted into the upper process, the other into the neck of <hi>Os Mallei.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Abducens Nasi Alam</head>
+                  <p>ARiseth small and fleshy from <hi>Os Maxillae superioris,</hi> near the first <hi>Par Proprium Labiorum,</hi> and is inserted into the lower and upper part of the <hi>Alae.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Attollens Nasi Alam</head>
+                  <p>ARiseth from the top of the bone of the Nose, with a sharp and fleshy be<g ref="char:EOLhyphen"/>ginning, and so descending according to the length of that bone, is inserted broad and fleshy into the <hi>Alam Nasi.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="14" facs="tcp:108870:15"/>
+                  <head>Claudens Nasum externus</head>
+                  <p>ARiseth externally and fleshy at the root of the <hi>Alae,</hi> and so climbing transversly, is inserted into the tip of the Nose.</p>
+               </div>
+               <div type="section">
+                  <head>Claudens Nasum internus</head>
+                  <p>ARiseth under the Membrain that co<g ref="char:EOLhyphen"/>vereth the Nose internally from the bone, at its <hi>Ʋnition</hi> with the Cartilage, and running downward, is implanted in<g ref="char:EOLhyphen"/>to the <hi>Alam Nasi:</hi> These are confest on all hands to be rarely found but in Nasute persons, and whether not more by fancy then otherwise, doubtful.</p>
+               </div>
+               <div type="section">
+                  <head>Communis Claudens Alas</head>
+                  <p>IS no other then <hi>Orbicularis Labium sive Constringens,</hi> when by his Con<g ref="char:EOLhyphen"/>traction proper, these are contracted by accident.</p>
+               </div>
+               <div type="section">
+                  <pb n="15" facs="tcp:108870:15"/>
+                  <head>Zygomaticus Riolani</head>
+                  <p>ARiseth from the <hi>Os Zygoma,</hi> with a fleshy and broad beginning, and run<g ref="char:EOLhyphen"/>ning obliquely downward and forward, is inserted into the side of the upper Lip, near <hi>Primus Nasi.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Abducens Labios</head>
+                  <p>ARiseth from the <hi>Os Zygoma</hi> fleshy and round, with much fat, and is im<g ref="char:EOLhyphen"/>planted into the Lips, where they are joyned both together.</p>
+               </div>
+               <div type="section">
+                  <head>Labii inferius Deprimens</head>
+                  <p>ARiseth fleshy from the lowest and foremost part of the inferior <hi>Maxil<g ref="char:EOLhyphen"/>lae,</hi> whence running obliquely, it is broad<g ref="char:EOLhyphen"/>ly inserted into the middle of the Lip.</p>
+               </div>
+               <div type="section">
+                  <head>Par Labium Constringens</head>
+                  <p>IS of a fungeus substance, with Orbicu<g ref="char:EOLhyphen"/>lar fibers arising from the middle of the bones of the superior and inferior <hi>Max<g ref="char:EOLhyphen"/>illa,</hi> and makes the whole body of those that we call Lips, which appear red to us.</p>
+               </div>
+               <div type="section">
+                  <pb n="16" facs="tcp:108870:16"/>
+                  <head>Platasma Muodes</head>
+                  <p>ARiseth from the Vertebres of the Neck, <hi>Scapula, Clavicula,</hi> and <hi>Ster<g ref="char:EOLhyphen"/>non,</hi> large, broad and thin, with store of membranous fibers, and so running up with oblique fibers, is inserted into the Chin, where both the superior and inferior Lips are joyned, and inlargeth himself so far as to make <hi>Adducens Auri ad Anteriora:</hi> Great care must be had to preserve this Muscle, for whe<g ref="char:EOLhyphen"/>ther you raise the <hi>Cutis</hi> from above or from below, he adheres very close to it. In the raising this Muscle, be careful to leave his Elongation that makes <hi>Addu<g ref="char:EOLhyphen"/>cens Aurem ad Anteriora,</hi> which you will rarely miss.</p>
+               </div>
+               <div type="section">
+                  <pb n="17" facs="tcp:108870:16"/>
+                  <head>Buccinator</head>
+                  <p>ARiseth from the upper part of the upper Mandible, and from the lower part of the lower Mandible, where the Gums begin, and runs circular; the proper Coat of the Mouth adheres so firmly to him internally, that he is scarce separable, and externally he hath a large round Tendon implanted into the midst of him, which hath his origination from a glau<g ref="char:EOLhyphen"/>dulous substance growing to the <hi>Os Zy<g ref="char:EOLhyphen"/>goma,</hi> close by the origination of the Muscle so called: This not taken notice of by any Author, but found by the Masters of Anatomy in a Body at the <hi>Theater</hi> in <hi>August,</hi> 1648.</p>
+               </div>
+               <div type="section">
+                  <head>Massetor sive Lateralis</head>
+                  <p>ARiseth large, strong and nervous, first from that Suture where the 4 and 1 bone of the <hi>Maxilla</hi> superior joyn; Secondly, fleshy from the <hi>Os Jugale,</hi> and is inserted firmly and largely into the whole lower Mandible external. If you throw this Muscle either from his origi<g ref="char:EOLhyphen"/>nation or insertion, <hi>Temporalis</hi> will ap<g ref="char:EOLhyphen"/>pear in his insertion.</p>
+               </div>
+               <div type="section">
+                  <pb n="18" facs="tcp:108870:17"/>
+                  <head>Temporalis</head>
+                  <p>ARiseth from the <hi>Os Frontis, Synci<g ref="char:EOLhyphen"/>pitis,</hi> and <hi>Sphaenoides,</hi> fleshy and semicircular, and in his descension grow<g ref="char:EOLhyphen"/>ing narrower, runneth under the <hi>Os Juga<g ref="char:EOLhyphen"/>le,</hi> with a short, but extraordinary strong and fleshy Tendon, into the process of the lower Mandible called <hi>Koronum.</hi> If you please to raise the Muscle carefully, you shall finde, That (contrary to the Opinion of some) the <hi>Periostion</hi> is un<g ref="char:EOLhyphen"/>der this Muscle.</p>
+               </div>
+               <div type="section">
+                  <head>Mastoideus</head>
+                  <p>ARiseth with a double origination, one from the <hi>Sternon,</hi> nervous, and the other fleshy from the more elated part of the <hi>Clavicle,</hi> and is inserted obliquely into the <hi>Process Mammillar</hi> by a round and fleshy Tendon.</p>
+               </div>
+               <div type="section">
+                  <pb n="19" facs="tcp:108870:17"/>
+                  <head>Biventer sive Digastricus</head>
+                  <p>ARiseth with a broad and nervous be<g ref="char:EOLhyphen"/>ginning from the process <hi>Styloidis,</hi> and presently becomes round, fleshy and small, and so soon as he comes to recur<g ref="char:EOLhyphen"/>vate under or through the <hi>Stylohyoideus,</hi> he becomes a nervous round Tendon, and then becomes fleshy again, and is inserted into the middle interior part of the ne<g ref="char:EOLhyphen"/>ther Mandible.</p>
+               </div>
+               <div type="section">
+                  <head>Caracohyoideus</head>
+                  <p>ARiseth near the neck of <hi>Os Scapula,</hi> from its process <hi>Caracoides</hi> fleshy, and running under the <hi>Levator Patientiae,</hi> is carried obliquely under the <hi>Mastoideus,</hi> and there becomes a smal round Tendon, and then fleshy again, and so is implant<g ref="char:EOLhyphen"/>ed into the horns of the <hi>Os Hyoidis.</hi> If you leave this Muscle in his origination, at the dissection of the <hi>Levator</hi> you will finde his origination perfect.</p>
+               </div>
+               <div type="section">
+                  <head>Sternohyoideus</head>
+                  <p>ARiseth broad and fleshy from the in<g ref="char:EOLhyphen"/>ternal part of the <hi>Sternon,</hi> and run<g ref="char:EOLhyphen"/>ning on (the same in substance and breadth) all along the <hi>Aspera Arteria,</hi> is inserted into the Basis of the <hi>Os Hyoidis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="20" facs="tcp:108870:18"/>
+                  <head>Sternothyroideus</head>
+                  <p>ARiseth fleshy and broad from the upper, but inner part of the <hi>Sternon,</hi> and keeping his dimensions, runs up with straight Fibers along by the <hi>Aspera Ar<g ref="char:EOLhyphen"/>teria,</hi> and is inserted into the lower side of the <hi>Cartilago Thyroidis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Hyothyroideus</head>
+                  <p>ARiseth from the whole side of <hi>Os Hyoidis</hi> at his Basis, and running down broad with right Fibers, is insert<g ref="char:EOLhyphen"/>ed into the lowest and lateral part of the <hi>Cartilago Thyroidis.</hi> If you take off this Muscle clear from his origination and insertion, you will be the less troubled to finde those of the <hi>Larinx.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Styloceratohyoideus</head>
+                  <p>ARiseth from the root of the Process <hi>Styloidis,</hi> and being small and round, is implanted into the horn of the <hi>Os Hyoidis,</hi> found infallibly by <hi>Digastricus</hi> his running through or under him.</p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:108870:18"/>
+                  <head>Mylohyoideus Riolani</head>
+                  <p>ARiseth laterally from the nether Mandible internal, under the <hi>Dentes Molares</hi> fleshy, and is inserted into the Basis of the <hi>Os Hyoidis</hi> externally; He is to be thrown upward in Dissection.</p>
+               </div>
+               <div type="section">
+                  <head>Geniohyoideus</head>
+                  <p>ARiseth internally from that middle part of the lower Mandible, called the <hi>Chin,</hi> and running down short and fleshy, is inserted in a proper Cavity, at the Basis of the <hi>Os Hyoidis</hi> internally.</p>
+               </div>
+               <div type="section">
+                  <head>Myloglossus</head>
+                  <p>ARiseth from the innermost lateral part of the lower Mandible, just under <hi>Dentes Molares,</hi> in the beginning broad, and is inserted into the ligament that tyes the Basis of the Tongue to the Fauces. At the origination of <hi>Mylo<g ref="char:EOLhyphen"/>hyoideus,</hi> you will certainly finde this, and he is best shown when the Mandible is divided.</p>
+               </div>
+               <div type="section">
+                  <pb n="22" facs="tcp:108870:19"/>
+                  <head>Ceratoglossus</head>
+                  <p>ARiseth from the upper horn of the <hi>Os Hyoidis;</hi> but if he be wanting, then from the lower horn, and so is im<g ref="char:EOLhyphen"/>planted laterally into the Tongue near its root.</p>
+               </div>
+               <div type="section">
+                  <head>Genioglossus</head>
+                  <p>ARiseth with a narrow beginning, a<g ref="char:EOLhyphen"/>bout the middle of the lower Mandi<g ref="char:EOLhyphen"/>ble, and then inlarging himself, is insert<g ref="char:EOLhyphen"/>ed into the root of the Tongue.</p>
+               </div>
+               <div type="section">
+                  <head>Hypsioglossus</head>
+                  <p>ARiseth fleshy from the middle and upper part of the <hi>Os Hyoidis,</hi> and is inserted into the middle of the Tongue, according to its Longitude.</p>
+               </div>
+               <div type="section">
+                  <head>Styloglossus</head>
+                  <p>ARiseth fleshy and small from the Pro<g ref="char:EOLhyphen"/>cess <hi>Styloidis</hi> with a sharp beginning, and growing more broad and fleshy, is in<g ref="char:EOLhyphen"/>serted into the lateral part of the Tongue, is best found by discovering with your fingers <hi>Styloides,</hi> and then your eye will lead you to this Muscle at the lateral part of the Tongue.</p>
+               </div>
+               <div type="section">
+                  <pb n="23" facs="tcp:108870:19"/>
+                  <head>Lingualis</head>
+                  <p>ARiseth fleshy and large from the Basis of the <hi>Os Hyoidis,</hi> and so runs ac<g ref="char:EOLhyphen"/>cording to its Longitude forward to the tip of the Tongue, and is disputed whe<g ref="char:EOLhyphen"/>ther Muscle or no.</p>
+               </div>
+               <div type="section">
+                  <head>Cricothyroideus Anticus</head>
+                  <p>ARiseth fleshy from the external part of the <hi>Cartilago Cricoidis,</hi> and is in<g ref="char:EOLhyphen"/>serted into the lateral part of the <hi>Carti<g ref="char:EOLhyphen"/>lago Thyroidis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Oesophagieus</head>
+                  <p>IS a broad Muscle fleshy, wholly en<g ref="char:EOLhyphen"/>compassing the <hi>Posterior</hi> and <hi>Anterior</hi> part of the <hi>Oesophagus</hi> arising laterally, according to the Longitude of the <hi>Carti<g ref="char:EOLhyphen"/>lago Thyroidis.</hi> This being carefully raised and cleared, you will the better finde <hi>Stylopharyngaeus</hi> and <hi>Cephalopharyngaeus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="24" facs="tcp:108870:20"/>
+                  <head>Stylopharyngaeus</head>
+                  <p>ARiseth with a small beginning from the internal part of the Process <hi>Sty<g ref="char:EOLhyphen"/>loidis,</hi> and is implanted by a membranous Tendon, into the <hi>Thyroidis,</hi> the sides of the <hi>Os Hyoidis,</hi> and the root of the Tongue.</p>
+               </div>
+               <div type="section">
+                  <head>Cephalopharyngaeus</head>
+                  <p>ARiseth from the <hi>Cranium,</hi> and the first Vertebre of the Neck, where they are joyned, and so descending, is implant<g ref="char:EOLhyphen"/>ed into the lateral parts of the <hi>Os Hyoi<g ref="char:EOLhyphen"/>dis, Cartilago Thyroidis,</hi> and the begin<g ref="char:EOLhyphen"/>ning of the <hi>Oesophagus,</hi> for whom he seems to make a Coat.</p>
+               </div>
+               <div type="section">
+                  <head>Cricoarytenoideus Posticus</head>
+                  <p>ARiseth fleshy from the hinder and lower part of the <hi>Cricoidis,</hi> and run<g ref="char:EOLhyphen"/>ning up with right Fibers, and repleating the Cavity of the <hi>Cricoidis,</hi> it is ner<g ref="char:EOLhyphen"/>vously implanted into the inner Seat of the <hi>Arytenoidis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="25" facs="tcp:108870:20"/>
+                  <head>Cricoarytenoideus Lateralis</head>
+                  <p>ARiseth from the lateral part of the <hi>Cricoidis,</hi> and is inserted into the la<g ref="char:EOLhyphen"/>teral external part of the <hi>Arytenoidis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Arytenoideus</head>
+                  <p>ARiseth from the <hi>Cartilago Arytenoi<g ref="char:EOLhyphen"/>dis,</hi> and is inserted into it again, en<g ref="char:EOLhyphen"/>compassing with its Partner (to whom laterally he is joyned) the Cartilage from whence he receives his denomi<g ref="char:EOLhyphen"/>nation.</p>
+               </div>
+               <div type="section">
+                  <head>Thyroaritenoideus</head>
+                  <p>ARiseth fleshy, broad, and transversly in the Cavity of the <hi>Larinx,</hi> from the middle internal part of the <hi>Thyroidis,</hi> and being carried upward according to his Longitude, is inserted into the lateral part of the <hi>Arytenoidis,</hi> which makes the <hi>Glottis.</hi> This Muscle is best found, by carefully dividing the <hi>Cartilago Thyroi<g ref="char:EOLhyphen"/>dis</hi> from the <hi>Cricoidis, Arytenoidis,</hi> and subjacent Muscles, the Coats of them be<g ref="char:EOLhyphen"/>ing carefully preserved, and then will plainly appear this.</p>
+               </div>
+               <div type="section">
+                  <pb n="26" facs="tcp:108870:21"/>
+                  <head>Sphaenopharyngaeus primus</head>
+                  <p>ARiseth thin and nervous from the sharp appendix of <hi>Os Cuneiformis,</hi> and descending (by the internal Cavity of the <hi>Pterigoidis</hi>) is inserted by a small Tendon into that skinny part of the Pallat, from which the <hi>Ʋva</hi> seems to proceed.</p>
+               </div>
+               <div type="section">
+                  <head>Sphaenopharyngaeus secundus</head>
+                  <p>ARiseth as the former, but is inserted not onely into the lateral, but also in<g ref="char:EOLhyphen"/>to the posterior part of the Fauces.</p>
+                  <p>To finde these, you must (after you have raised the <hi>Larinx</hi> and <hi>Oesophagus</hi>) leave the Fauces intire, and then divide the Fau<g ref="char:EOLhyphen"/>ces themselves from the <hi>Os Palati,</hi> till you come into the Cavity; then carry your Knife close as you can internally to the <hi>Os Cuneiformis,</hi> and being so divided, you will easily finde both their origina<g ref="char:EOLhyphen"/>tions, and may as easily dissect them: It was proposed to clear the external Coat off the <hi>Pharinx,</hi> and then to dissect these Muscles, and follow them to their origi<g ref="char:EOLhyphen"/>nations.</p>
+               </div>
+               <div type="section">
+                  <pb n="27" facs="tcp:108870:21"/>
+                  <head>Pterygoeideus externus sive Adducens</head>
+                  <p>ARiseth from the external part of the <hi>Processus Aliformis</hi> in part, as also from the rough and sharp line of <hi>Os Cu<g ref="char:EOLhyphen"/>neiformis,</hi> strong, nervous and fleshy, and so runs down large, and is inserted by a strong broad Tendon, into the internal part of the lower Mandible lateral, just under the Tendon of the temporal Muscle.</p>
+               </div>
+               <div type="section">
+                  <head>Pterygoeideus internus sive Abducens</head>
+                  <p>ARiseth thick and short from the in<g ref="char:EOLhyphen"/>ternal Cavity of the Process <hi>Alifor<g ref="char:EOLhyphen"/>mis,</hi> first nervous, and then fleshy, and is inserted by a broad, strong and nervous Tendon, into the lower Mandible inter<g ref="char:EOLhyphen"/>nally lateral: These two Muscles appear not, till the whole Dissection of the Tongue <hi>Larinx</hi> and <hi>Gala</hi> be fully com<g ref="char:EOLhyphen"/>pleated.</p>
+               </div>
+               <div type="section">
+                  <pb n="28" facs="tcp:108870:22"/>
+                  <head>Longus</head>
+                  <p>ARiseth sharp and fleshy from the forepart of the Body, of the fifth Vertebre of the <hi>Thorax,</hi> where the Rib joyns himself to him, and so running up under the <hi>Oesophagus,</hi> is joyned to the sides of the bodies of all the Vertebres, ascending till he comes to the first of them, where meeting with <hi>Scalenus,</hi> they insert themselves by a sharp nervous Ten<g ref="char:EOLhyphen"/>don into the transverse Process of the first Vertebre of the Neck.</p>
+               </div>
+               <div type="section">
+                  <head>Scalenus sive Triangularis</head>
+                  <p>ARiseth from the first and uppermost Rib of the <hi>Thorax</hi> broad and fleshy, and then narrowing himself in his course upward, he bestows transverse Fibers upon all the transverse Processes of the Neck, and is inserted as the for<g ref="char:EOLhyphen"/>mer.</p>
+               </div>
+               <div type="section">
+                  <pb n="29" facs="tcp:108870:22"/>
+                  <head>Pectoralis</head>
+                  <p>ARiseth first from the middle of the <hi>Clavicle,</hi> where he is most round and next the breast fleshy: Secondly, from the <hi>Sternon,</hi> according to his length, and is annexed to his Cartilages: Thirdly, from the Cartilages of the 6, 7 and 8 Ribs, and there is nervous in his origination, and so proceeds fleshy and large, till he comes to the lateral part of the <hi>Thorax,</hi> where he is converted into a short broad and strong Tendon, and inserted into <hi>Os Hu<g ref="char:EOLhyphen"/>meri,</hi> according to his Longitude, be<g ref="char:EOLhyphen"/>tween the <hi>Deltois</hi> and <hi>Biceps.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Subclavius</head>
+                  <p>ARiseth fleshy from the rising part of the first Rib, where he is joyned to the <hi>Sternon,</hi> and running as it were trans<g ref="char:EOLhyphen"/>versly, is inserted into that part of the <hi>Clavicula,</hi> that faceth the Rib and the Process <hi>Acromion,</hi> with a fleshy and broad end; others, and that many, invert his origination to his insertion, and so <hi>è con<g ref="char:EOLhyphen"/>trario:</hi> This Muscle is left standing in dis<g ref="char:EOLhyphen"/>section, unless for particular satisfaction.</p>
+               </div>
+               <div type="section">
+                  <pb n="30" facs="tcp:108870:23"/>
+                  <head>Seratus Major Anticus</head>
+                  <p>ARiseth from the eight lower Ribs with a Saw-like nervous and accute beginning, hence growing fleshy upon the Ribs, he ascends and inserts himself fleshy into the whole Basis of the <hi>Sca<g ref="char:EOLhyphen"/>pula</hi> internally. This is controverted whether the origination and insertion be not <hi>è contrario.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Seratus Minor Anticus</head>
+                  <p>ARiseth from the four first upper Ribs by so many Saw-like originations, and so descending towards the <hi>Scapula,</hi> narrows himself, and is inserted broad, fleshy and nervous into it.</p>
+               </div>
+               <div type="section">
+                  <head>Intercostales externi</head>
+                  <p>HAve their originations from the trans<g ref="char:EOLhyphen"/>verse Processes of the Back, where the Ribs are joyned, and so proceeding fleshy, fix themselves along from the lower part of the upper Rib external, to the upper part of the lower Rib external, and so proceed to the Cartilage of the <hi>Sternon.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="31" facs="tcp:108870:23"/>
+                  <head>Intercostales interni</head>
+                  <p>HAve their origination where the Ribs begin to curvate internal, and run from the lower to the upper part of the Ribs, not onely to the Catilage, but un<g ref="char:EOLhyphen"/>der that to the <hi>Os Pectoris sive Sternon.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Cremasteres</head>
+                  <p>TAke their origination (from the ter<g ref="char:EOLhyphen"/>mination of the transverse Muscle of the <hi>Abdomen</hi>) oblong, and tender with red, fleshy and right Fibers; and so pas<g ref="char:EOLhyphen"/>sing through the Perforations of the Ab<g ref="char:EOLhyphen"/>dominal Muscles, he joyns himself to the Spermatique vessels, and encompasseth the <hi>Testes.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Erector Penis</head>
+                  <p>ARiseth from the Appendix of the Coxendix, below the beginning of the <hi>Penis,</hi> and proceeding nervous, be<g ref="char:EOLhyphen"/>comes fleshy, and ascends obliquely, and is inserted laterally into the <hi>Penis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="32" facs="tcp:108870:24"/>
+                  <head>Accelerator Penis</head>
+                  <p>ARiseth fleshy from <hi>Sphinctor Ani,</hi> and joyning with his Partner internally lateral, and running up the forepart of the <hi>Penis,</hi> is inserted into the <hi>Vrethra.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Levatores Ani</head>
+                  <p>ARise from the ligaments of the <hi>Pu<g ref="char:EOLhyphen"/>bis Coxendix</hi> and <hi>Sacrum</hi> under the Bladder, small, thin, broad and membra<g ref="char:EOLhyphen"/>nous, and are inserted into each side of the <hi>Podex;</hi> These are best discovered afore you remove the <hi>Intestinum rectum vesica,</hi> and parts adjacent.</p>
+               </div>
+               <div type="section">
+                  <head>Sphinctor Ani</head>
+                  <p>ARiseth from the lower Vertebres of the <hi>Os Sacrum</hi> round and broad, ad<g ref="char:EOLhyphen"/>joyning himself largely circular to the <hi>In<g ref="char:EOLhyphen"/>testinum rectum</hi> with transverse Fibers, much thicker above then below, where he adheres so firmly to the <hi>Cutis,</hi> that it is very hardly divideable, which was the occasion that some took it for two, cal<g ref="char:EOLhyphen"/>ling the last <hi>Cuticulosus.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="33" facs="tcp:108870:24"/>
+                  <head>Sphinctor Vesicae</head>
+                  <p>IS placed Orbicular in the neck of the Bladder, scarcely distinguishable from the substance of it; onely where you finde a rotund induration, that is he.</p>
+               </div>
+               <div type="section">
+                  <head>Detrusor Ʋrinae</head>
+                  <p>SAid to arise between the common and second proper Coat of the Bladder; the first proper Coat being properly his, if not him.</p>
+               </div>
+               <div type="section">
+                  <head>Diaphragma</head>
+                  <p>HAth his origination from a Nerve in his own Center, and is inserted in the forepart to the <hi>Sternon</hi> and terminations of the true Ribs, and to the twelfth Rib; as also to the extremities of the bastard Ribs on the sides, and in the hinder part to the flesh, wanting Vertebres of the loyns, to which he is firmly annexed.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="34" facs="tcp:108870:25"/>
+               <head>Here let the Body be turned upon its face.</head>
+               <div type="section">
+                  <head>Cuccularis</head>
+                  <p>ARiseth fleshy from the inferior part of the <hi>Os Occipitis,</hi> and from the <hi>Spines</hi> of the Vertebres of the neck, and the eight upper <hi>Spines</hi> of the Vertebres of the <hi>Thorax,</hi> and springeth membra<g ref="char:EOLhyphen"/>nous, broad, and running externally to<g ref="char:EOLhyphen"/>wards the <hi>Scapula,</hi> grows narrower, and is inserted into the whole <hi>Spine</hi> of the <hi>Scapula,</hi> and near half his <hi>Basis,</hi> as also to part of the <hi>Clavicula,</hi> by a broad, nervous and fleshy termination. This Muscle is to be divided from his Partner, at their origination from the <hi>Spines</hi> of the Vertebres; and being so followed, and well cleared from the <hi>Os Occipitis,</hi> the Muscles underneath will the better appear.</p>
+               </div>
+               <div type="section">
+                  <pb n="35" facs="tcp:108870:25"/>
+                  <head>Latissimus sive ani-scalptor</head>
+                  <p>ARiseth from the <hi>Spines</hi> of the Ver<g ref="char:EOLhyphen"/>tebres of the <hi>Thorax,</hi> from part of the <hi>Os Sacrum,</hi> as also from the up<g ref="char:EOLhyphen"/>per part of the <hi>Os Ileon:</hi> Here his ori<g ref="char:EOLhyphen"/>gination is meerly membranous, but run<g ref="char:EOLhyphen"/>ning higher, so soon as it attains the cur<g ref="char:EOLhyphen"/>vation of the Ribs, he grows fleshy, and in his ascension becoming narrower, is carried over the lower Angle of the <hi>Sca<g ref="char:EOLhyphen"/>pula;</hi> and by a strong and short, but broad Tendon, he is implanted below the upper head of the <hi>Os Humeri,</hi> be<g ref="char:EOLhyphen"/>tween the pectoral and rotund Muscles. Great care must be had, lest in the raising of this Muscle from his origination, you take up the origination of the subjacent Muscle <hi>Seratus inferior Posticus.</hi> If you take not great care, this Muscle will bor<g ref="char:EOLhyphen"/>row from <hi>Quadratus Lumbi,</hi> as you raise him from the <hi>Ileon,</hi> to which he firmly adheres; as also near the <hi>Scapula, Sera<g ref="char:EOLhyphen"/>tus Major Anticus</hi> will rise with him, unless carefully observed.</p>
+               </div>
+               <div type="section">
+                  <pb n="36" facs="tcp:108870:26"/>
+                  <head>Rhomboidis</head>
+                  <p>ARiseth broad and fleshy (immediately under the <hi>Cuccularis</hi>) from the Spi<g ref="char:EOLhyphen"/>nal Processes of the three lower Ver<g ref="char:EOLhyphen"/>tebres of the Neck, and three upper Vertebres of the <hi>Thorax;</hi> whence run<g ref="char:EOLhyphen"/>ning with thin Fibres, he descends down to the <hi>Scapula,</hi> to whose whole Basis ex<g ref="char:EOLhyphen"/>ternally he adheres broad and fleshy: In raising this, be careful that you do not raise the Tendon of <hi>Seratus superior Posticus,</hi> who lies just under him.</p>
+               </div>
+               <div type="section">
+                  <head>Levator Patientiae</head>
+                  <p>ARiseth from the first, third, fourth and fifth transverse Processes of the Neck, and hath as many several origina<g ref="char:EOLhyphen"/>tions, with their Interstitiums; These joyning, descend, and adjoyn to the whole superior side of the <hi>Rhomboidis,</hi> till it is inserted by a broad fleshy Ten<g ref="char:EOLhyphen"/>don to the highest Angle of the <hi>Sca<g ref="char:EOLhyphen"/>pula.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="37" facs="tcp:108870:26"/>
+                  <head>Rotundus</head>
+                  <p>ARiseth fleshy from the lower Angle of the <hi>Scapula,</hi> and adhering fleshy to his lower <hi>Costa,</hi> proceeds, and having gone half way, deserts, and being in<g ref="char:EOLhyphen"/>differently dilated, is inserted by a short, broad and strong Tendon into that part of the <hi>Os Humeri,</hi> where <hi>Pectoralis</hi> hath his insertion.</p>
+               </div>
+               <div type="section">
+                  <head>Superscapularis superior</head>
+                  <p>ARiseth fleshy from the whole Basis of the <hi>Scapula,</hi> above the <hi>Spine,</hi> and going backward to the neck of it, there passeth under the second ligament of the <hi>Humeri,</hi> as the <hi>Biceps</hi> doth, and is in<g ref="char:EOLhyphen"/>serted by a broad and strong Tendon, obliquely into the neck of the <hi>Os Hu<g ref="char:EOLhyphen"/>meri.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="38" facs="tcp:108870:27"/>
+                  <head>Superscapularis inferior</head>
+                  <p>ARiseth from almost the whole Basis of the lower part of the <hi>Scapula,</hi> and possessing the major part of that Ca<g ref="char:EOLhyphen"/>vity fleshy, running backward, narrows himself according to the form of the part, and by a broad Tendon, is inserted into the ligament of <hi>Os Humeri.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Nonus Humeri Placentini</head>
+                  <p>ARiseth sharp, and fleshy from the lowest Angle of the <hi>Scapula,</hi> at his Basis, and growing more fleshy to its <hi>Venter,</hi> decreases again, and terminates himself by a sharp Tendon into the liga<g ref="char:EOLhyphen"/>ment of the <hi>Os Humeri.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Subscapularis</head>
+                  <p>ARiseth fleshy from the whole internal Basis of the <hi>Scapula,</hi> and so running forward according to the dimension of the bone, narrows himself, and by a broad Tendon, is inserted into the fourth ligament of the <hi>Humeris.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="39" facs="tcp:108870:27"/>
+               <head>If you please to take off the whole Arm with the <hi>Sca<g ref="char:EOLhyphen"/>pula</hi> now, the Dissection of these following Muscles will be the easier per<g ref="char:EOLhyphen"/>formed.</head>
+               <div type="section">
+                  <head>Deltois</head>
+                  <p>ARiseth generally nervous, first, for<g ref="char:EOLhyphen"/>ward from the middle of the <hi>Cla<g ref="char:EOLhyphen"/>vicle,</hi> where he is broadest, next the <hi>Os Humeri:</hi> Secondly, from the top of the <hi>Scapula,</hi> where he is joyned to the <hi>Cla<g ref="char:EOLhyphen"/>vicle:</hi> Thirdly, from the whole <hi>Spine</hi> of the <hi>Scapula;</hi> These originations present<g ref="char:EOLhyphen"/>ly growing fleshy, descend, and narrow<g ref="char:EOLhyphen"/>ing, becomes a strong Tendon, external<g ref="char:EOLhyphen"/>ly fleshy, internally nervous, and is im<g ref="char:EOLhyphen"/>planted transversly under the neck of the <hi>Os Humeri.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="40" facs="tcp:108870:28"/>
+                  <head>Biceps</head>
+                  <p>ARiseth first externally from the top of the <hi>Acetabulum Scapulae,</hi> by a long and round Tendon, and so runs under the ligament of that juncture over the head of <hi>Os Humeri,</hi> and through a Channel insclupt for him there; where he is bound in by a proper ligament: Secondly, he ariseth broad, fleshy and nervous from the Process <hi>Anchoriformis,</hi> and is carried over the internal head of <hi>Os Humeri,</hi> and so descending, meets with the other, and makes one strong and fleshy Muscle, and narrowing himself, becomes a strong thick, large, round and nervous Ten<g ref="char:EOLhyphen"/>don, and is inserted into an oblong Pro<g ref="char:EOLhyphen"/>minence under the upper head of the <hi>Radius.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="41" facs="tcp:108870:28"/>
+                  <head>Octavus Humeri Placentini</head>
+                  <p>ARiseth by a short and nervous origi<g ref="char:EOLhyphen"/>nation, from the Process <hi>Anchorifor<g ref="char:EOLhyphen"/>mis,</hi> near the origination of the <hi>Deltois,</hi> and so descending, becomes something long, large and fleshy, and is by a strong Tendon implanted into the middle of the <hi>Os Humeri.</hi>
+                  </p>
+                  <p>Through the body of this Muscle doth pass a Nerve, which serves the rest of the Muscles. But in this Dissection the Masters had no perforation nor Nerve through him, for the Nerve ran by.</p>
+               </div>
+               <div type="section">
+                  <head>Brachieus</head>
+                  <p>ARiseth (about the middle of the <hi>Os Humeri,</hi> near the insertion of the <hi>Deltois</hi> and <hi>Pectoralis</hi>) double, broad and fleshy, partly by the external, partly by the internal side of the said Bone, but joyning presently, and firmly adhering to the Bone: He in descension becomes large, till at last he terminates broad and fleshy in the ligament of the joynt, as well as in the Appendices of the <hi>Cubitus</hi> and <hi>Radius.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="42" facs="tcp:108870:29"/>
+                  <head>Gemellus Major</head>
+                  <p>ARiseth doubly, first, broad and strong, partly fleshy, partly nervous, from the lower part of the <hi>Scapula,</hi> where it hath a peculiar Cavity a little under the neck of it, and growing fleshy, descends, and joyns himself to the internal side of the <hi>Os Humeri,</hi> where he meets with his other fleshy origination, and so making one, is carried down to the internal side of the Process of the <hi>Olecranium,</hi> and is there implanted.</p>
+               </div>
+               <div type="section">
+                  <head>Gemellus Minor</head>
+                  <p>ARiseth nervous from the neck of the <hi>Os Humeri,</hi> and so becoming fleshy, descends to the middle of <hi>Os Hume<g ref="char:EOLhyphen"/>ri,</hi> and mixeth himself with the for<g ref="char:EOLhyphen"/>mer inseparably, and at length is insert<g ref="char:EOLhyphen"/>ed partly fleshy, partly nervous, into the external side of the <hi>Olecranium.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="43" facs="tcp:108870:29"/>
+                  <head>Palmaris</head>
+                  <p>ARiseth round and nervous from the internal extuberance of the <hi>Os Hu<g ref="char:EOLhyphen"/>meri,</hi> presently becoming fleshy and nar<g ref="char:EOLhyphen"/>row, about the midst of the Cubite is carried something obliquely, and is con<g ref="char:EOLhyphen"/>verted into a long and round Tendon, and passing over the internal ligament of the Wrist, comes to the Palm, and there expands himself into a most broad Tendon, and is inserted laterally into the first joynts of the Fingers.</p>
+               </div>
+               <div type="section">
+                  <head>Caro Musculosa Quadrata</head>
+                  <p>ARiseth from the <hi>Membrana Carnosa,</hi> under <hi>Mous Lunae,</hi> where the eighth Bone of the <hi>Carpus</hi> is placed, and from thence goes under <hi>Palmaris</hi> to the mid<g ref="char:EOLhyphen"/>dle of the Palm, and is inserted into the outside of that Tendon that sepa<g ref="char:EOLhyphen"/>rates the little Finger from the rest.</p>
+               </div>
+               <div type="section">
+                  <pb n="44" facs="tcp:108870:30"/>
+                  <head>Flexor Carpi interior</head>
+                  <p>ARiseth sharp, fleshy and nervous from the inner extuberance of the <hi>Os Hu<g ref="char:EOLhyphen"/>meri,</hi> and so running fleshy the whole length of the Cubite to whom he ad<g ref="char:EOLhyphen"/>heres, at the Wrist hath his insertion into the fourth bone of it, partly ner<g ref="char:EOLhyphen"/>vous, partly fleshy.</p>
+               </div>
+               <div type="section">
+                  <head>Flexor Carpi exterior</head>
+                  <p>ARiseth as the former from the same extuberance, and so running some<g ref="char:EOLhyphen"/>thing transversly, (near the external part of <hi>Primi Digitorum flectentium</hi>) is fixed to the <hi>Radius;</hi> and a little before he comes to the <hi>Carpus,</hi> becomes a round Tendon, which cleaving to the transverse ligament, runs under him, and inlarging himself, is inserted in that <hi>Os Me<g ref="char:EOLhyphen"/>tacarpi</hi> that stands before the little Finger.</p>
+               </div>
+               <div type="section">
+                  <pb n="45" facs="tcp:108870:30"/>
+                  <head>Flexor secundi internodii perforatus</head>
+                  <p>ARiseth round and nervous from the same part of <hi>Os Humeri,</hi> under the former, and so growing more broad and fleshy about the middle of <hi>Cubitus</hi> and <hi>Radius,</hi> something adhering to them, goes forward, and becomes totally round and fleshy near the Wrist, where he is divided into four fleshy portions, from which proceed so many round Ten<g ref="char:EOLhyphen"/>dons; all which are involved in one pro<g ref="char:EOLhyphen"/>per Mucaginous and thin Coat; and so running internally under the ligament, get through the Palm, and then distri<g ref="char:EOLhyphen"/>bute to the first and second joynts of the four Fingers, as many Tendons which are perforated a little before their insertion, for transmission of the Ten<g ref="char:EOLhyphen"/>dons of <hi>Tertii internodii Flexor.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="46" facs="tcp:108870:31"/>
+                  <head>Flexor tertii internodii perforans</head>
+                  <p>ARiseth membranous some small part of him from the same extuberance as the former; the rest from the root of the forward Process of the <hi>Olecranium;</hi> then he becomes exactly round and fleshy, running under the former, and adhering on the internal side to the <hi>Cu<g ref="char:EOLhyphen"/>biteus,</hi> on the external to the <hi>Primi Pol<g ref="char:EOLhyphen"/>lici Flexor,</hi> and descending about the middle of the Cubite, they divide and make their progress through the Fisures of the other, and are inserted into the third joynt of the Fingers.</p>
+               </div>
+               <div type="section">
+                  <head>Flexor tertii internodii Pollicis</head>
+                  <p>ARiseth round and fleshy from the <hi>Os Cubiti,</hi> and so running along by the <hi>Radius,</hi> to which he adheres; as also to the Membrain, that joyns the <hi>Cubitus</hi> and <hi>Radius,</hi> he comes to the Wrist, where he becomes a round nervous Tendon, having also a proper thin Mucaginous Mem<g ref="char:EOLhyphen"/>brain, and so running forward, is inserted into the third joynt of the Thumb by a something broad Tendon.</p>
+               </div>
+               <div type="section">
+                  <pb n="47" facs="tcp:108870:31"/>
+                  <head>Pronator Radii Teres</head>
+                  <p>ARiseth from the root of the inward Prominens of the <hi>Os Humeri,</hi> and from the internal side of the <hi>Os Cubiti,</hi> and is there joyned by a large fleshy be<g ref="char:EOLhyphen"/>ginning to the <hi>Radius;</hi> and so descend<g ref="char:EOLhyphen"/>ing obliquely by his inner side, a lit<g ref="char:EOLhyphen"/>tle above the middle, is implanted to him fleshy; from whence a nervous head proceeds, which is inserted into the ex<g ref="char:EOLhyphen"/>ternal part of the <hi>Radius.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Pronator Quadratus</head>
+                  <p>ARiseth from the inferior and inter<g ref="char:EOLhyphen"/>nal part of the Cubite near the Wrist, running transversly over the ligament that joyns the <hi>Cubite</hi> and <hi>Radius,</hi> and so implants himself fleshy to the internal part of the <hi>Radius.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="48" facs="tcp:108870:32"/>
+                  <head>Flexores primi internodii</head>
+                  <p>ARise round, long and slender from the Membrains that involve the Tendons of <hi>Tertii internodii Flexores,</hi> and so pas<g ref="char:EOLhyphen"/>sing on fleshy, are inserted by a round nervous Tendon into the first joynts of the Fingers, and are best shown by raising one from his origination, and leaving him in his insertion, and the other <hi>e contrario.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Primi internodii pollicis flexor primus</head>
+                  <p>ARiseth from the upper part of the An<g ref="char:EOLhyphen"/>nular ligament near the Thumb fleshy, and ascending encompasseth the first joynt of the Thumb intirely, and is in<g ref="char:EOLhyphen"/>serted into the head of that joynt fleshy.</p>
+               </div>
+               <div type="section">
+                  <head>Secundus</head>
+                  <p>ARiseth fleshy partly from the same li<g ref="char:EOLhyphen"/>gament, and partly from <hi>Os Carpi</hi> next the Thumb, and running under the other, is implanted into the same joynt, from the root, even to the middle of him.</p>
+               </div>
+               <div type="section">
+                  <pb n="49" facs="tcp:108870:32"/>
+                  <head>Secundi internodii pollicis flexor primus</head>
+                  <p>ARiseth broad, thin and fleshy from that <hi>Os Metacarpi</hi> that receives the fore-Finger, a little below his head, and running towards the Thumb, grows something Triangular, is inseretd by a membranous Tendon into the head of the second joynt of the Thumb, on the side next the fore-Finger.</p>
+               </div>
+               <div type="section">
+                  <head>Secundus</head>
+                  <p>ARiseth broad and fleshy from the <hi>Os Metacarpi</hi> of the middle Finger, and running to the Thumb, is inserted into the middle of the second joynt of it.</p>
+               </div>
+               <div type="section">
+                  <head>Tertius</head>
+                  <p>ARiseth broad and fleshy from the <hi>Os Metacarpi</hi> of the third Finger, and is implanted in the same place with the former.</p>
+               </div>
+               <div type="section">
+                  <head>Quartus</head>
+                  <p>ARiseth fleshy from the <hi>Os Metacarpi</hi> of the little Finger, about the middle of it, and running under the other, is in<g ref="char:EOLhyphen"/>serted into the same joynt as the former.</p>
+               </div>
+               <div type="section">
+                  <pb n="50" facs="tcp:108870:33"/>
+                  <head>Minimi Digiti Abductor</head>
+                  <p>ARiseth fleshy from the fourth bone of the <hi>Carpus,</hi> and so extending him<g ref="char:EOLhyphen"/>self by the <hi>Metacarpe,</hi> is inserted into the external side of the first bone of the little Finger.</p>
+               </div>
+               <div type="section">
+                  <head>Pollicis Abductor</head>
+                  <p>ARiseth nervous near the <hi>Flexor primi internodii pollicis,</hi> from the <hi>Os Carpi</hi> that sustains the Thumb, and becoming fleshy, implants himself by a membra<g ref="char:EOLhyphen"/>nous Tendon into the first joynt of the Thumb.</p>
+               </div>
+               <div type="section">
+                  <head>Pollicis Adductor</head>
+                  <p>ARiseth fleshy from the outward and hinder part of that <hi>Os Metacarpi</hi> that sustains the fore-finger, and is in<g ref="char:EOLhyphen"/>serted fleshy and broad to the internal side of the Thumb at the first joynt.</p>
+               </div>
+               <div type="section">
+                  <pb n="51" facs="tcp:108870:33"/>
+                  <head>Interossei</head>
+                  <p>ARise fleshy, round and long from the bones of the <hi>Metacarpe,</hi> and at the roots of the Fingers become Tendons, and are inserted laterally from the first to the second joynts.</p>
+               </div>
+               <div type="section">
+                  <head>Extensor Carpi exterior</head>
+                  <p>ARiseth from the edge which is above the exterior extuberance of the <hi>Os Humeri,</hi> by a broad nervous beginning; then growing more fleshy, he runs by the <hi>Radius</hi> according to its length, and be<g ref="char:EOLhyphen"/>ing got half-way, he converts himself in<g ref="char:EOLhyphen"/>to a strong Tendon, which presently di<g ref="char:EOLhyphen"/>vides himself into two more broad, then thick, and so descending by the <hi>Radius,</hi> pass under the Annular ligament beyond the <hi>Carpus,</hi> and are inserted into the <hi>Os Metacarpi</hi> of the fore-Finger and se<g ref="char:EOLhyphen"/>cond Finger.</p>
+               </div>
+               <div type="section">
+                  <pb n="52" facs="tcp:108870:34"/>
+                  <head>Extensor Carpi interior</head>
+                  <p>ARiseth from the root of the external eminency of the <hi>Os Humeri;</hi> as also from the top of the <hi>Cubite,</hi> and being carried according to his Longitude, near the <hi>Carpus</hi> is converted into a strong and round Tendon, by which he is inserted into a <hi>Sinus</hi> above the lower Appendix of the Cubite, and into the upper part of the <hi>Os Metacarpi</hi> of the little Finger.</p>
+               </div>
+               <div type="section">
+                  <head>Digitorum <hi>2<seg rend="sup">di</seg>
+                     </hi> &amp; <hi>3<seg rend="sup">ii</seg>
+                     </hi> internodii tensor</head>
+                  <p>ARiseth partly fleshy, partly nervous from the external extuberance of the <hi>Os Humeri,</hi> and suddenly becoming more fleshy, descending between the two Ex<g ref="char:EOLhyphen"/>tensors of the <hi>Carpus;</hi> and narrowing, divides himself into three round Ten<g ref="char:EOLhyphen"/>dons, who are included in a common thin mucaginous Coat, and are so carried under the Annular ligament; passing which, they divide themselves, and are inserted into the fore, middle, and third Fingers, at the second and third joynts.</p>
+               </div>
+               <div type="section">
+                  <pb n="53" facs="tcp:108870:34"/>
+                  <head>Minimi Digiti tensor</head>
+                  <p>ARiseth sharp and nervous from the same part as the former, and for al<g ref="char:EOLhyphen"/>most half-way is so united to him, that they seem all one; but coming to the transverse ligament, he becomes a round nervous Tendon, which is implanted into the first and second joynts of the little Finger.</p>
+               </div>
+               <div type="section">
+                  <head>Supinator Radii Longus</head>
+                  <p>ARiseth fleshy from the middle of <hi>Os Humeri,</hi> and running obliquely over the <hi>Radius,</hi> at the bottom of it he be<g ref="char:EOLhyphen"/>comes a membranous Tendon, and is fast<g ref="char:EOLhyphen"/>ned to the upper part of the Appendix of the said <hi>Radius,</hi> tending something inward.</p>
+               </div>
+               <div type="section">
+                  <head>Pollicis tertii ossis tensor</head>
+                  <p>ARiseth fleshy from the external part of the <hi>Cubite,</hi> where the ligament that joyns it and <hi>Radius</hi> grows membranous, and runs obliquely to the said <hi>Radius,</hi> whose Appendix so soon as it reacheth, it becomes a round Tendon, and getting un<g ref="char:EOLhyphen"/>der the transverse ligament, is inserted in the third bone of the Thumb.</p>
+               </div>
+               <div type="section">
+                  <pb n="54" facs="tcp:108870:35"/>
+                  <head>Secundi &amp; tertii Pollicis tensor</head>
+                  <p>ARiseth fleshy from the same place of the Cubite as the former, and ascends obliquely over the <hi>Radius,</hi> and divides himself into two unequal parts; yet sticking together, and is carried not onely in a proper ligament, but in a pro<g ref="char:EOLhyphen"/>per Chanel at the Appendix of the <hi>Ra<g ref="char:EOLhyphen"/>dius;</hi> the upper part remaining some<g ref="char:EOLhyphen"/>thing fleshy, yet at last becomes a round Tendon, and is inserted into the <hi>Os Car<g ref="char:EOLhyphen"/>pi</hi> that receives the Thumb; the other is presently subdivided into two small por<g ref="char:EOLhyphen"/>tions of flesh, and they become Ten<g ref="char:EOLhyphen"/>dons: The first of which is inserted into the root of the first joynt of the Thumb; the other by a Membrain fixeth him<g ref="char:EOLhyphen"/>self to the second and third joynts of the Thumb.</p>
+               </div>
+               <div type="section">
+                  <pb n="55" facs="tcp:108870:35"/>
+                  <head>Indicem Abducens</head>
+                  <p>ARiseth with an exact fleshy beginning from the middle of the Cubite, and so running obliquely to the Appendix of the <hi>Radius,</hi> he becomes two Tendons, which by a proper <hi>Sinus</hi> in the said Ap<g ref="char:EOLhyphen"/>pendix, are transmitted under the Annu<g ref="char:EOLhyphen"/>lar ligament over the <hi>Metacarpe,</hi> and the upper Tendon is carried to the root of the little Finger; the other is implanted into the root of the second Finger, both obliquely.</p>
+               </div>
+               <div type="section">
+                  <head>Supinator Radii Brevis</head>
+                  <p>ARiseth fleshy from the external part of the ligament of the lower head of the <hi>Os Humeri,</hi> and from the posterior Process of the <hi>Cubite,</hi> and running ob<g ref="char:EOLhyphen"/>liquely (outwardly membranous, inwardly fleshy) recovers the middle of the <hi>Radius,</hi> and is there strongly implanted into it.</p>
+               </div>
+               <div type="section">
+                  <pb n="56" facs="tcp:108870:36"/>
+                  <head>Primi internodii Extensores</head>
+                  <p>ARise fleshy, long, round and slender from the bones of the <hi>Metacarpe,</hi> and so running to the roots of the Fin<g ref="char:EOLhyphen"/>gers, are inserted laterally to the first and second joynts of the Fingers, and are to be raised as the <hi>Flexores primi internodii.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Here you return to the Body it self as it lyes.</head>
+               <div type="section">
+                  <head>Seratus Posticus superior</head>
+                  <p>ARiseth very thin and membranous (just over the <hi>Splenius</hi>) from the Processes <hi>Spinal</hi> of the three last Verte<g ref="char:EOLhyphen"/>bres of the Neck, and the first of the <hi>Thorax;</hi> and in his oblique progression towards the <hi>Convex,</hi> part of the <hi>Tho<g ref="char:EOLhyphen"/>rax,</hi> he becomes fleshy, and is inserted into the four superior <hi>Costae</hi> by so many distinct terminations.</p>
+               </div>
+               <div type="section">
+                  <pb n="57" facs="tcp:108870:36"/>
+                  <head>Seratus Posticus inferior</head>
+                  <p>ARiseth thin and membranous from three, sometimes from four of the lower <hi>Spines</hi> of the Vertebres of the Back, and so marching transversly, be<g ref="char:EOLhyphen"/>comes fleshy, and is inserted into the four inferior <hi>Costae,</hi> by so many distinct terminations.</p>
+               </div>
+               <div type="section">
+                  <head>Splenius sive Triangularis</head>
+                  <p>ARiseth doubly, first from the <hi>Spines</hi> of the fifth, fourth, third, second and first Vertebres of the <hi>Thorax;</hi> Secondly, from the <hi>Spines</hi> of the five lower Ver<g ref="char:EOLhyphen"/>tebres of the Neck, and so running broad and long, about the third Vertebre of the Neck both the originations joyn; and by oblique Fibers both Muscles insert themselves into the middle of the <hi>Occi<g ref="char:EOLhyphen"/>put.</hi> You must throw off this from his originations, and preserve as many of his <hi>Ansulae</hi> as you can between the <hi>Spines,</hi> by running between and recovering his Tendon.</p>
+               </div>
+               <div type="section">
+                  <pb n="58" facs="tcp:108870:37"/>
+                  <head>Trigeminus</head>
+                  <p>ARiseth threefold; First, from the fourth and fifth transverse Processes of the Vertebres of the <hi>Thorax,</hi> and immediately becoming fleshy, ascends over the rest of those Vertebres, till he comes to the lowest Vertebre of the Neck, where he becomes a round Ten<g ref="char:EOLhyphen"/>don; but not far off from thence he be<g ref="char:EOLhyphen"/>comes fleshy again, and inserts himself into the middle of the <hi>Occiput:</hi> The se<g ref="char:EOLhyphen"/>cond origination is by a short round Nerve from the same Processe of the last Vertebre of the Neck; and from thence becoming fleshy, is conjoyned with the other before his implantation: The third origination is partly fleshy, partly nervous, from the transverse Pro<g ref="char:EOLhyphen"/>cesses of the first and second Vertebres of the <hi>Thorax;</hi> and running obliquely outward (after conjunction with the o<g ref="char:EOLhyphen"/>thers) is inserted to the root of the Mammillary Process, bestowing an <hi>Ansu<g ref="char:EOLhyphen"/>lae</hi> upon every transverse Process of the <hi>Cervix.</hi> To finde him fairly, divide the sides of <hi>Spinatus</hi> and <hi>Dorsi Longissimus,</hi> and his origination will more plainly ap<g ref="char:EOLhyphen"/>pear.</p>
+               </div>
+               <div type="section">
+                  <pb n="59" facs="tcp:108870:37"/>
+                  <head>Transversalis</head>
+                  <p>ARiseth from the transverse Processes of the six superior Vertebres of the <hi>Thorax,</hi> and so growing thicker, is im<g ref="char:EOLhyphen"/>planted externally into all the transverse Processes of the Neck.</p>
+               </div>
+               <div type="section">
+                  <head>Spinatus</head>
+                  <p>ARiseth with many beginnings from the roots of the <hi>Spines</hi> of the seven uppermost Vertebres of the <hi>Thorax;</hi> and ascending, gets a Tendon out of every transverse Process of the Vertebres of the Neck, and is firmly implanted into the whole inferior part of the second <hi>Spine</hi> of those Vertebres, and there the right and left meet, and are indeed so united all the way, that they are neither divisible nor distinguishable, but by the <hi>Spine.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Recti Majores</head>
+                  <p>ARise from the points of the <hi>Spines</hi> of the second Vertebre of the Neck, and ascending, are inserted into the middle of the <hi>Occiput.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="60" facs="tcp:108870:38"/>
+                  <head>Recti Minores</head>
+                  <p>ARise under the other (from a small Tubercle of the first Vertebre of the Neck) round, and ascending, are implanted as the former underneath them.</p>
+               </div>
+               <div type="section">
+                  <head>Obliqui superiores</head>
+                  <p>ARise from the external side of the <hi>Recti</hi> at their implantations, and de<g ref="char:EOLhyphen"/>scending obliquely, are inserted into the Process of the first Vertebre of the Neck called <hi>Transverse.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Obliqui inferiores</head>
+                  <p>ARise from the <hi>Spine</hi> of the second Vertebre of the Neck, and ascend<g ref="char:EOLhyphen"/>ing obliquely, are inserted with the <hi>Obli<g ref="char:EOLhyphen"/>qui superiores.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:108870:38"/>
+                  <head>Dorsi Longissimus</head>
+                  <p>ARiseth from all the <hi>Spines</hi> of the <hi>Os Sacrum,</hi> and Vertebres of the Loyns, and from the internal part of the <hi>Os Ileon</hi> (where he joyns himself to the <hi>Sacrum</hi>) his beginning is externally strong, nervous, and something accute, but within fleshy; and so ascending, fix<g ref="char:EOLhyphen"/>eth himself to the transverse Processes of the loyns, and becomes more fleshy; then continuing his course, he narrows himself, and bestows a small nervous Tendon upon every transverse Process of the <hi>Thorax,</hi> but the twelth, and in<g ref="char:EOLhyphen"/>serts himself into the said Process of the first Vertebre of the <hi>Thorax,</hi> though sometimes he makes his progress up to the Mammillary Process: In this Body it did terminate at the Mammillary Pro<g ref="char:EOLhyphen"/>cess.</p>
+               </div>
+               <div type="section">
+                  <pb n="62" facs="tcp:108870:39"/>
+                  <head>Sacrolumbus</head>
+                  <p>HAth the same origination <hi>in toto</hi> with the <hi>Dorsi Longissimus,</hi> and adheres to him externally lateral, according to its Longitude, till it hath attained the twelfth Vertebre of the <hi>Thorax,</hi> where they seem to be two (although by Dis<g ref="char:EOLhyphen"/>section to be divided most difficult) and so growing thinner, inserts himself by two small Tendons into every Rib of the <hi>Thorax</hi> at their incurvation.</p>
+               </div>
+               <div type="section">
+                  <pb n="63" facs="tcp:108870:39"/>
+                  <head>Sacer</head>
+                  <p>ARiseth from the external part of the <hi>Os Sacrum,</hi> where he is joyned to the <hi>Spine,</hi> and so arising fleshy, hath three several Tendinous insertions; The first into the upper part of the transverse Pro<g ref="char:EOLhyphen"/>cesses of the Vertebre of the Loyns; The other into the roots of the same Pro<g ref="char:EOLhyphen"/>cesses; and the third into every <hi>Spine</hi> of the same Vertebre. To finde <hi>Sacer</hi> (not dissected afore this Body) you must raise <hi>Dorsi Longissimus</hi> and <hi>Sacrolumbus</hi> from their membranous origination at <hi>Os Ileon, Os Sacrum,</hi> and from the <hi>Spines</hi> of the <hi>Lumbi,</hi> and immediately under that, will appear this in <hi>Situ,</hi> and in clearing him well, you will remove the scruple some make of the origination of <hi>Semispinatus</hi> and <hi>Spinatus,</hi> one begin<g ref="char:EOLhyphen"/>ning where the other ends.</p>
+               </div>
+               <div type="section">
+                  <head>Semispinatus</head>
+                  <p>ARiseth by a sharp beginning from the <hi>Spine</hi> of the last Vertebre of the <hi>Thorax,</hi> and becoming fleshy, bestows a nervous Tendon upon every <hi>Spine</hi> of the Vertebres, ascending, and terminates accutely in the <hi>Spine</hi> of the first Verte<g ref="char:EOLhyphen"/>bre of the <hi>Thorax.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="64" facs="tcp:108870:40"/>
+                  <head>Quadratus</head>
+                  <p>ARiseth from the hindermost and most superior Cavity of the <hi>Os Ileon,</hi> as also from the superior part of the <hi>Os Sacrum,</hi> broad, thick and fleshy; and so ascending over the Vertebres of the Loyns, he adheres to their transverse Pro<g ref="char:EOLhyphen"/>cesses internally, and inserts himself, being grown narrower, to the internal part of the twelfth Rib fleshy.</p>
+               </div>
+               <div type="section">
+                  <head>Psoas</head>
+                  <p>ARiseth livid and fleshy from the sides of the Bodies of the two last Verte<g ref="char:EOLhyphen"/>bres of the <hi>Thorax,</hi> and the three upper<g ref="char:EOLhyphen"/>most of the Loyns, and from their trans<g ref="char:EOLhyphen"/>verse Processes descending something round, from the inner part of the <hi>Os Ile<g ref="char:EOLhyphen"/>on</hi> to the <hi>Os Pubis,</hi> where he becomes a strong and round Tendon, and running through his <hi>Sinus,</hi> is implanted into the upper part of the lesser <hi>Rotator.</hi> In this Body there did appear <hi>Psoas Parvus,</hi> mentioned by <hi>Riolanus.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="65" facs="tcp:108870:40"/>
+               <head>Now if you please to take off the Thigh from the Trunk of the Body, by dividing the <hi>Os Ileon</hi> from the <hi>Os Sa<g ref="char:EOLhyphen"/>crum,</hi> the Dissection of the subsequent Muscles will be the better performed.</head>
+               <div type="section">
+                  <head>Illiacus internus</head>
+                  <p>PRoceeds from the whole <hi>Spine</hi> of the <hi>Os Ileon,</hi> semicircular, broad, and inter<g ref="char:EOLhyphen"/>nally fleshy; then narrowing, and grow<g ref="char:EOLhyphen"/>ing thicker, becomes Tendinous, and passing through the same <hi>Sinus</hi> with the <hi>Psoas,</hi> is implanted into the same <hi>Rotator</hi> a little below him.</p>
+               </div>
+               <div type="section">
+                  <pb n="66" facs="tcp:108870:41"/>
+                  <head>Gluteus Major</head>
+                  <p>ARiseth first from the whole <hi>Spine</hi> of the <hi>Os Ileon</hi> externally: Secondly, from the lower part of the <hi>Os Sacrum</hi> laterally: Thirdly, from the <hi>Os Coccys</hi> large and fleshy, running down obliquely over the <hi>Juncture</hi> of the <hi>Coxendix;</hi> and growing narrower, is implanted by a broad and strong Tendon into the first impression of the great <hi>Rotator.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Gluteus Medius</head>
+                  <p>ARiseth under the former, from the forepart of the <hi>Spine,</hi> as also from the back of <hi>Os Ileon,</hi> fleshy, broad, and semicircular, and descending oblique<g ref="char:EOLhyphen"/>ly, narrows, and runs over the <hi>Juncture</hi> as the other, and is implanted by a broad, strong and membranous Tendon trans<g ref="char:EOLhyphen"/>versly into the fourth impression of the great <hi>Rotator.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="67" facs="tcp:108870:41"/>
+                  <head>Gluteus Minor</head>
+                  <p>ARiseth livid, broad, semicircular and fleshy about the lower part of the back of the <hi>Ileon,</hi> near the <hi>Acetabulum</hi> of the <hi>Coxendix,</hi> and so runs obliquely forward, fibrous, adhering to the liga<g ref="char:EOLhyphen"/>ment that bindes in the head of the <hi>Os Femoris,</hi> and is implanted by a broad and strong Tendon into the third im<g ref="char:EOLhyphen"/>pression of the great <hi>Rotator.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Piriformis</head>
+                  <p>ARiseth round, thick and fleshy from the three lower Vertebres of the <hi>Os Sacrum,</hi> and running transversly, be<g ref="char:EOLhyphen"/>comes a round Tendon, and is inserted into the fourth impression of the great <hi>Rotator.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="68" facs="tcp:108870:42"/>
+                  <head>Obturator internus</head>
+                  <p>ARiseth fleshy and large from the Membrain internally, that covers the great perforation of the <hi>Os Pubis,</hi> and co<g ref="char:EOLhyphen"/>vering the whole internal face of that bone and <hi>Coxendix,</hi> grows narrower, and sends forth three or four Tendons, which are carried through the <hi>Sinus</hi> of the <hi>Coxendix</hi> (which is arch'd over <hi>Secun<g ref="char:EOLhyphen"/>dum Longitudinem</hi> with a strong liga<g ref="char:EOLhyphen"/>ment) back wards to the external part of the <hi>Coxendix,</hi> where they are received in a fleshy purse, and so making one Tendon, are implanted into the <hi>Sinus</hi> of the great <hi>Rotator.</hi> This Muscle must be raised in<g ref="char:EOLhyphen"/>ternally, and got through the <hi>Sinus</hi> un<g ref="char:EOLhyphen"/>der the ligament, and then his purse will plainly appear. This by <hi>Riolanus</hi> is in its <hi>Marsupium</hi> made two, and called <hi>Quadragemini,</hi> but not to be dissected.</p>
+               </div>
+               <div type="section">
+                  <pb n="69" facs="tcp:108870:42"/>
+                  <head>Quadrageminus</head>
+                  <p>ARiseth fleshy from the external rising of the <hi>Os Ileon,</hi> and from the Ap<g ref="char:EOLhyphen"/>pendix of the <hi>Coxendix,</hi> and runs broad, short and fleshy towards the hinder part of the great <hi>Rotator,</hi> and is inserted into that space of the bone which is between the two <hi>Rotators.</hi> The head of <hi>Lividus,</hi> and part of <hi>Triceps,</hi> must be thrown off, afore the origination of this will be well cleared, or <hi>Obturator externus</hi> found.</p>
+               </div>
+               <div type="section">
+                  <head>Obturator externus</head>
+                  <p>ARiseth large and fleshy from the Membrain that encompasseth the perforation of the <hi>Os Pubis</hi> externally; and so running transversly to the back part of the <hi>Femor,</hi> becomes narrower, and is inserted by a strong Tendon into the <hi>Sinus</hi> of the great <hi>Rotator.</hi> Carry your Knife internally about the edge of the perforation of the <hi>Os Pubis,</hi> and he will arise the better.</p>
+               </div>
+               <div type="section">
+                  <pb n="70" facs="tcp:108870:43"/>
+                  <head>Membranosus</head>
+                  <p>ARiseth sharp, externally nervous, in<g ref="char:EOLhyphen"/>ternally fleshy from the <hi>Spine</hi> of the <hi>Os Ileon</hi> (on that side that is forward next the <hi>Sartorius;</hi>) so descending, is joyned to the great <hi>Rotator,</hi> and then becomes broad, and nervously membra<g ref="char:EOLhyphen"/>nous, encompassing in himself all the Muscles of the Thigh; then covering the <hi>Patella, Tibia</hi> and <hi>Fibula</hi> in the exte<g ref="char:EOLhyphen"/>rior part of them, is there implanted. As much of this Membrain is to be kept as may be in <hi>Dissection,</hi> and the division of it to be made in the posterior part.</p>
+               </div>
+               <div type="section">
+                  <head>Sartorius</head>
+                  <p>ARiseth sharp, fleshy and nervous from the forepart of the <hi>Spine</hi> of the <hi>Os Ileon;</hi> and then becoming fleshy and broad, runs obliquely internally over the Muscles of the Thigh, becoming Tendi<g ref="char:EOLhyphen"/>nous and broad at the internal Appendix of the <hi>Os Femoris,</hi> and is implanted by a broad Tendon (say some) round (o<g ref="char:EOLhyphen"/>thers) into the <hi>Tibia.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="71" facs="tcp:108870:43"/>
+                  <head>Gracilis</head>
+                  <p>ARiseth large and nervous from the <hi>Os Pubis,</hi> according to the Longitude of its <hi>Cartilage;</hi> and so descending in<g ref="char:EOLhyphen"/>ternally towards the Ham fleshy, there becomes a round Tendon at the internal head of the <hi>Os Femoris,</hi> inserting him<g ref="char:EOLhyphen"/>self into the <hi>Tibia</hi> beneath the former.</p>
+               </div>
+               <div type="section">
+                  <head>Rectus</head>
+                  <p>ARiseth sharp and nervous from the small internal extuberance of <hi>Os Ileon,</hi> and then growing fleshy and round, when he comes to the <hi>Patella,</hi> he ex<g ref="char:EOLhyphen"/>pands himself into a broad strong Ten<g ref="char:EOLhyphen"/>don, covering it intirely, and running downward, is inserted into the exter<g ref="char:EOLhyphen"/>nal part of the <hi>Tibia,</hi> at a Prominency provided for him.</p>
+               </div>
+               <div type="section">
+                  <pb n="72" facs="tcp:108870:44"/>
+                  <head>Vastus externus</head>
+                  <p>ARiseth broad and nervous from the root of the great <hi>Rotator,</hi> cleaving to the upper and external part of the <hi>Os Femoris,</hi> so descending fleshy to the <hi>Pa<g ref="char:EOLhyphen"/>tella,</hi> he becomes a membranous broad Tendon, and mixing with the Tendon of the <hi>Rectus,</hi> makes the same Tegu<g ref="char:EOLhyphen"/>ment for the <hi>Patella,</hi> and hath the same insertion.</p>
+               </div>
+               <div type="section">
+                  <head>Vastus internus</head>
+                  <p>ARiseth nervous from part of the great <hi>Rotator,</hi> and from the neck of the <hi>Os Femoris;</hi> and growing fleshy, adheres to the forward and internal part of the said <hi>Os Femoris,</hi> and recovering the <hi>Patella,</hi> he there with the other two for<g ref="char:EOLhyphen"/>mer mixeth himself, covers the <hi>Patella,</hi> and takes his insertion in the same place as they do.</p>
+               </div>
+               <div type="section">
+                  <pb n="73" facs="tcp:108870:44"/>
+                  <head>Biceps</head>
+                  <p>ARiseth, first, sharp and nervous from the Appendix of the <hi>Os Coxendix,</hi> and growing fleshy, runs down external<g ref="char:EOLhyphen"/>ly, and being got half-way, he attenuates, and grows nervous, as if tending to a Tendon, where he joyns himself with his other head, which arises from the <hi>Os Femoris,</hi> where <hi>Gluteus Major</hi> hath his insertion; and so growing thicker, out<g ref="char:EOLhyphen"/>wardly nervous, becomes a strong Ten<g ref="char:EOLhyphen"/>don, and runs through the external <hi>Sinus</hi> of the external part of the head of <hi>Os Femoris,</hi> and fixeth himself firmly to the external side of the upper Appen<g ref="char:EOLhyphen"/>dix of the <hi>Fibula.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Semimembranosus</head>
+                  <p>ARiseth where the former did with a small membranous beginning, and running downward by the back part of the Thigh, continues membranous half his progress, and then becomes more fleshy and thick, and in the Ham by a round Tendon, inserts himself into the internal side of <hi>Tibia.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="74" facs="tcp:108870:45"/>
+                  <head>Seminervosus</head>
+                  <p>ARiseth small and nervous from the same Appendix as the former, and continuing so half-way in his descension, then becomes fleshy, running by the back part of the <hi>Os Femoris</hi> to the Ham, near which he becomes a round Tendon, and reflecting himself, is inserted in the forepart of <hi>Tibia.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Triceps</head>
+                  <p>ARises with three heads: the first fleshy, and nervous from the Appendix of the <hi>Coxendix,</hi> which growing big-belly'd, delates himself by the hinder part of the <hi>Femor,</hi> and growing smaller, ends in a round Tendon at the internal head of the said <hi>Os Femoris:</hi> The second ariseth fleshy from the <hi>Coxendix</hi> at his conjun<g ref="char:EOLhyphen"/>ction with the <hi>Pubis,</hi> and terminates himself at the root of the less <hi>Rotator:</hi> The third ariseth fleshy from the lower part of the <hi>Os Coxendix,</hi> and is implant<g ref="char:EOLhyphen"/>ed into the <hi>Linea aspera</hi> of the said <hi>Os Femoris.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="75" facs="tcp:108870:45"/>
+                  <head>Lividus</head>
+                  <p>ARiseth broad and fleshy from the forepart of the <hi>Os Pubis,</hi> near his <hi>Cartilage,</hi> descending obliquely, and is inserted by a large and short Tendon to the internal side of the <hi>Os Femoris</hi> near his middle.</p>
+               </div>
+               <div type="section">
+                  <head>Gasterocnemius externus</head>
+                  <p>ARiseth broad &amp; fleshy from the inter<g ref="char:EOLhyphen"/>nal head of <hi>Os Femoris,</hi> as also from the external head of the same bone; so de<g ref="char:EOLhyphen"/>scending according to their originations, about midway they are united and con<g ref="char:EOLhyphen"/>verted into one intire, broad, strong and nervous Tendon, and become one with the Tendon of <hi>Gasterocnemius internus,</hi> and insert themselves into the posterior part of the <hi>Os Calcis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="76" facs="tcp:108870:46"/>
+                  <head>Plantaris</head>
+                  <p>ARiseth fleshy, round and slender (un<g ref="char:EOLhyphen"/>der the former) from the external head of <hi>Os Femoris,</hi> and after some di<g ref="char:EOLhyphen"/>latation, he becomes a slender round Ten<g ref="char:EOLhyphen"/>don, and running obliquely from the ex<g ref="char:EOLhyphen"/>ternal, internally between both the <hi>Ga<g ref="char:EOLhyphen"/>sterocnemii,</hi> and being joyned with their Tendon near the Heel laterally, running forward, inserts himself (after dilatation over the Sole of the Foot) into each of the five Toes at the first joynt. The di<g ref="char:EOLhyphen"/>latation of this Muscle over the Sole of the Foot, as also his insertions will not be found, unless you allow him to insert himself into <hi>Flexor primi internodii,</hi> at his origination in the Cavity of the <hi>Os Calcis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Gasterocnemius internus</head>
+                  <p>ARiseth livid, strong and nervous from the posterior Appendix of the <hi>Fi<g ref="char:EOLhyphen"/>bula,</hi> and growing larger, adheres both to that and <hi>Tibia,</hi> and descending, at half-way, he becomes narrower, and Tendinous, making one with the for<g ref="char:EOLhyphen"/>mer in origination and insertion.</p>
+               </div>
+               <div type="section">
+                  <pb n="77" facs="tcp:108870:46"/>
+                  <head>Suppopliteus</head>
+                  <p>ARiseth broad and nervous from the external head of <hi>Os Femoris,</hi> and growing fleshy, runs obliquely to the posterior and internal part of the Root of the upper Appendix of the <hi>Tibia,</hi> and is there implanted.</p>
+               </div>
+               <div type="section">
+                  <head>Flexor Digitorum tertii internodii perforans</head>
+                  <p>ARiseth fleshy and long from the back part of the <hi>Tibia,</hi> running and ad<g ref="char:EOLhyphen"/>hering according to its Longitude, to the middle of it, and there becoming a Ten<g ref="char:EOLhyphen"/>don, is carried to the internal <hi>Maleolus;</hi> where he becomes round, and is car<g ref="char:EOLhyphen"/>ried under the ligament that proceeds from the lower Appendix of the <hi>Tibia</hi> to the <hi>Os Calcis,</hi> and then divides him<g ref="char:EOLhyphen"/>self into four Tendons, which terminate in the third joynts of the four lesser Toes.</p>
+               </div>
+               <div type="section">
+                  <pb n="78" facs="tcp:108870:47"/>
+                  <head>Tibiaeus posticus</head>
+                  <p>ARiseth fleshy from the ligament that joyns the <hi>Fibula</hi> and <hi>Tibia,</hi> accord<g ref="char:EOLhyphen"/>ing to their Longitude, and from both bones backward, and becomes a round Tendon at or near the internal <hi>Maleo<g ref="char:EOLhyphen"/>lus;</hi> where being bound by a strong li<g ref="char:EOLhyphen"/>gament, he overruns him, and recovering the Sole of the Foot, is inserted into the inferior part of that <hi>Os Tarsi</hi> that joyns himself with <hi>Os Cubiformis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Flexor Pollicis</head>
+                  <p>ARiseth sharp and fleshy about the middle of the posterior part of the <hi>Fibula,</hi> descending larger near the inter<g ref="char:EOLhyphen"/>nal <hi>Maleolus,</hi> runs obliquely under the said <hi>Maleolus,</hi> and is inserted into the third joynt of the great Toe. Under this ligament lie the <hi>Os Sesamoides.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="79" facs="tcp:108870:47"/>
+                  <head>Flexor secundi internodii perforatus</head>
+                  <p>ARises fleshy and membranous from the extremity of <hi>Os Calcis,</hi> and marching half-way the Sole of the Foot, divides himself into four round Ten<g ref="char:EOLhyphen"/>dons, which at their insertion into the second joynts of the four lesser Toes, are perforated for the transmission of the <hi>Tertii internodii flexor.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Flexor primi internodii digitorum</head>
+                  <p>ARise round and fleshy from the Ten<g ref="char:EOLhyphen"/>dons of <hi>Tertii internodii flexor,</hi> and are inserted by small Tendons laterally to the first joynts of the Toes. If you examine this carefully; you shall finde these to have their origination from a musculous portion of flesh, seated in the internal Cavity of <hi>Os Calcis,</hi> and pro<g ref="char:EOLhyphen"/>ceeding fleshy half the Sole, there makes these, and from him sometimes proceeds a Tendon to the first of the Toes, and makes <hi>Secundi internodii;</hi> as also you shall always finde, That the Tendon of the <hi>Tertii internodii flexor</hi> runs through the body of this, and is not perfectly divisible.</p>
+               </div>
+               <div type="section">
+                  <pb n="80" facs="tcp:108870:48"/>
+                  <head>Abducens Pollicem</head>
+                  <p>ARiseth nervous from the internal part of the Heel, and from the ligament that keeps that and the <hi>Talus</hi> together; and so growing fleshy and round, be<g ref="char:EOLhyphen"/>comes Tendinous, inserting himself into the lateral part of the first <hi>Juncture</hi> of the great Toe.</p>
+               </div>
+               <div type="section">
+                  <head>Abducens minimum digitorum</head>
+                  <p>ARiseth nervous from the external part of the Heel, growing fleshy, in his progress is adjoyned by a small fleshy Tendon to the <hi>Os Metatarsi,</hi> preceding <hi>Minimus Digitorum,</hi> running forward with another to <hi>Digitorum Minimus,</hi> laterally.</p>
+               </div>
+               <div type="section">
+                  <head>Transversalis Placentini</head>
+                  <p>ARiseth from the ligament of the first <hi>Juncture</hi> of the little Toe fleshy, running transversly over all the first joynts of the Toes, and inserts himself into the first joynt of the great Toe in<g ref="char:EOLhyphen"/>ternally lateral.</p>
+               </div>
+               <div type="section">
+                  <pb n="81" facs="tcp:108870:48"/>
+                  <head>Tibiaeus Anticus</head>
+                  <p>ARiseth sharp and fleshy from the up<g ref="char:EOLhyphen"/>permost Appendix of the <hi>Fibula</hi> and <hi>Tibia</hi> forward, as also from the ligament that bindes them together; then being dilated, is about the middle of the <hi>Tibia</hi> narrowed, growing into a Tendon strong and round, running obliquely over the <hi>Tibia,</hi> and under the Annular ligament, is implanted into the internal side of that <hi>Os Tarsi</hi> that is before <hi>Os Pollicis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Peroneus primus</head>
+                  <p>ARiseth strongly nervous from the up<g ref="char:EOLhyphen"/>per Appendix of the <hi>Fibula,</hi> descend<g ref="char:EOLhyphen"/>ing, he adheres to the external part of it, being round externally, livid internally, next the Muscles red, coming half-way, he becomes a Tendon, running obliquely backward through the <hi>Sinus</hi> under the external <hi>Maleolus,</hi> and is inserted into the Root of <hi>Os Tarsi,</hi> that adjoyns to the <hi>Os Pollicis.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <pb n="82" facs="tcp:108870:49"/>
+                  <head>Proneus secundus</head>
+                  <p>ARiseth long and fleshy from the <hi>Fi<g ref="char:EOLhyphen"/>bula,</hi> to which he adheres; and ha<g ref="char:EOLhyphen"/>ving made half his progress, becomes a round Tendon, running to the back part of the <hi>Fibula</hi> under the external <hi>Maleo<g ref="char:EOLhyphen"/>lus,</hi> is implanted by two Tendons into that <hi>Os Tarsi</hi> adjoyning to <hi>Minimus Di<g ref="char:EOLhyphen"/>gitorum;</hi> In this body but one Tendon.</p>
+               </div>
+               <div type="section">
+                  <head>Tensor Pollicis</head>
+                  <p>BEgins fleshy from the <hi>Fibula,</hi> where he parts from the <hi>Tibia;</hi> as also from the ligament that joyns them, to which he sticks strongly, and so becoming a Tendon, runs over the lower part of the <hi>Fibula,</hi> and under the transverse li<g ref="char:EOLhyphen"/>gament, and is inserted into all the three joynts of the great Toe.</p>
+               </div>
+               <div type="section">
+                  <pb n="83" facs="tcp:108870:49"/>
+                  <head>Extensor secundi internodii digitorum</head>
+                  <p>ARiseth broad and fleshy from the transverse ligament upon the top of the Foot, and then seems to divide him<g ref="char:EOLhyphen"/>self into four several Muscles; which coming to the Toes, send forth Tendons to the first joynt of each Toe, but more especially to the second joynts, where they are joyned to their ligaments.</p>
+               </div>
+               <div type="section">
+                  <head>Interossei</head>
+                  <p>ARiseth fleshy from the sides of the bones of the Foot, and are inserted by something broad, but short Tendons, into the first bones of the Toes.</p>
+                  <pb n="84" facs="tcp:108870:50"/>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="85" facs="tcp:108870:50"/>
+               <head>The reduction of the Muscles each to his proper use and part.</head>
+               <p>THe Forehead is lifted up by <hi>Frontalis.</hi>
+               </p>
+               <p>The Eye-brows,
+<list>
+                     <item>The upper
+<list>
+                           <item>Lifted up by <hi>Aperiens Rectus.</hi>
+                           </item>
+                           <item>Deprest by <hi>Claudens superior.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>The nether lifted up by <hi>Claudens inferior.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Eyes are moved
+<list>
+                     <item>Rightly
+<list>
+                           <item>Upward by <hi>Attollens.</hi>
+                           </item>
+                           <item>Downward by <hi>Deprimens.</hi>
+                           </item>
+                           <item>Inward by <hi>Adducens.</hi>
+                           </item>
+                           <item>Outward by <hi>Abducens.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Obliquely
+<list>
+                           <item>Downward externally by <hi>Circumagens exterior.</hi>
+                           </item>
+                           <item>Upward internally by <hi>Circumagens interior.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="86" facs="tcp:108870:51"/>
+               <p>The Nose is
+<list>
+                     <item>Dilated by
+<list>
+                           <item>
+                              <hi>Primus Aperiens.</hi>
+                           </item>
+                           <item>
+                              <hi>Secundus Aperiens.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Contracted by
+<list>
+                           <item>
+                              <hi>Primus Constringens.</hi>
+                           </item>
+                           <item>
+                              <hi>Secundus Constringens.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The Lips are
+<list>
+                     <item>Lifted up by <hi>Attollens.</hi>
+                     </item>
+                     <item>Drawn laterally by <hi>Abducens.</hi>
+                     </item>
+                     <item>Drawn down by <hi>Deprimens.</hi>
+                     </item>
+                     <item>Pursed up by <hi>Labium Constringens.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Cheeks are
+<list>
+                     <item>Drawn downward by <hi>Platasma Muodes.</hi>
+                     </item>
+                     <item>Drawn inward by <hi>Buccinator.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="87" facs="tcp:108870:51"/>
+               <p>The nether Mandible is drawn
+<list>
+                     <item>Upward by <hi>Temporalis.</hi>
+                     </item>
+                     <item>Downward by <hi>Digastricus.</hi>
+                     </item>
+                     <item>Laterally by <hi>Massetor.</hi>
+                     </item>
+                     <item>Forward by <hi>Pterigoideus externus.</hi>
+                     </item>
+                     <item>Backward by <hi>Pterigoideus internus.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Ears which are moved
+<list>
+                     <item>Externally
+<list>
+                           <item>Upwards by <hi>Attollens.</hi>
+                           </item>
+                           <item>Downwards by <hi>Deprimens.</hi>
+                           </item>
+                           <item>Forward by <hi>Adducens.</hi>
+                           </item>
+                           <item>Backward by <hi>Abducens.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Internally
+<list>
+                           <item>By <hi>Externus.</hi>
+                           </item>
+                           <item>By <hi>Internus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="88" facs="tcp:108870:52"/>
+               <p>The Tongue is moved
+<list>
+                     <item>In Constriction by the <hi>Lingualis.</hi>
+                     </item>
+                     <item>In Dilatation by the <hi>Lingualis.</hi>
+                     </item>
+                     <item>Forward by <hi>Geneoglossus.</hi>
+                     </item>
+                     <item>Backward by <hi>Hypsioglossus.</hi>
+                     </item>
+                     <item>Upward by <hi>Myleoglossus.</hi>
+                     </item>
+                     <item>Downward by <hi>Ceratoglossus.</hi>
+                     </item>
+                     <item>Laterally by <hi>Styloglossus.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Os Hy<g ref="char:EOLhyphen"/>oidis</hi> is mo<g ref="char:EOLhyphen"/>ved
+<list>
+                     <item>Rightly
+<list>
+                           <item>Upwards by
+<list>
+                                 <item>
+                                    <hi>Mylohyoideus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Geneohyoideus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Downwards by <hi>Sternohyoideus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Obliquely
+<list>
+                           <item>Upwards by <hi>Styloceratohyoideus.</hi>
+                           </item>
+                           <item>Downwards by <hi>Caracohyoideus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="89" facs="tcp:108870:52"/>
+               <p>The Fauces are
+<list>
+                     <item>Dilated by
+<list>
+                           <item>
+                              <hi>Sphaenopharyngaeus primus.</hi>
+                           </item>
+                           <item>
+                              <hi>Spaenopharyngaeus secundus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Contracted by
+<list>
+                           <item>
+                              <hi>Oesophagiaeus.</hi>
+                           </item>
+                           <item>
+                              <hi>Cephalopharyngaeus.</hi>
+                           </item>
+                           <item>
+                              <hi>Stylopharyngaeus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>La<g ref="char:EOLhyphen"/>rinx</hi> is
+<list>
+                     <item>Dilated
+<list>
+                           <item>when <hi>Thyroidis</hi> is
+<list>
+                                 <item>Extended by
+<list>
+                                       <item>
+                                          <hi>Sternothyroideus.</hi>
+                                       </item>
+                                       <item>
+                                          <hi>Cricoarytenoideus Anticus.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>Bended by <hi>Hyothyroideus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Contracted</item>
+                     <item>Shut</item>
+                     <item>Opened
+<list>
+                           <item>while the <hi>A<g ref="char:EOLhyphen"/>rytenoi<g ref="char:EOLhyphen"/>dis</hi> is
+<list>
+                                 <item>Bent
+<list>
+                                       <item>Rightly by <hi>Thyroarytenoideus.</hi>
+                                       </item>
+                                       <item>Obliquely lateral by <hi>Arytenoideus.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                                 <item>Extended
+<list>
+                                       <item>Rightly by <hi>Cricoarytenoideus posticus.</hi>
+                                       </item>
+                                       <item>obliquely lateral by <hi>Cricoarytenoidens lateralis.</hi>
+                                       </item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="90" facs="tcp:108870:53"/>
+               <p>The Head is
+<list>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Mastoideus,</hi>
+                              <list>
+                                 <item>Rightly if both move.</item>
+                                 <item>Laterally if but one.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Splenius sive Triangularis.</hi>
+                           </item>
+                           <item>
+                              <hi>Trigeminus.</hi>
+                           </item>
+                           <item>
+                              <hi>Recti Majores.</hi>
+                           </item>
+                           <item>
+                              <hi>Recti Minores.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Turn'd a<g ref="char:EOLhyphen"/>bout by
+<list>
+                           <item>
+                              <hi>Obliqui superiores.</hi>
+                           </item>
+                           <item>
+                              <hi>Obliqui inferiores.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The Neck is
+<list>
+                     <item>Bent by
+<list>
+                           <item>
+                              <hi>Longus.</hi>
+                           </item>
+                           <item>
+                              <hi>Scalenus sive Triangularis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Transversalis.</hi>
+                           </item>
+                           <item>
+                              <hi>Spinatus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="91" facs="tcp:108870:53"/>
+               <p>The <hi>Thorax</hi> is mo<g ref="char:EOLhyphen"/>ved
+<list>
+                     <item>Primarily by his proper Muscles, which do
+<list>
+                           <item>Dilate in breathing
+<list>
+                                 <item>freely the <hi>Diaphragma</hi> alone contracted.</item>
+                                 <item>Coactively <hi>Diaphragma</hi> and <hi>Intercostales externi.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Constringe in breathing
+<list>
+                                 <item>freely <hi>Diaphragma</hi> alone relaxt.</item>
+                                 <item>Coactively <hi>Diaphragma</hi> and <hi>Intercostales interni.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Extend as
+<list>
+                                 <item>
+                                    <hi>Dorsi Longissimus</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Semispinatus</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Sacrolumbus</hi>
+                                 </item>
+                              </list> which are retaind <hi>in loco</hi> by
+<list>
+                                 <item>
+                                    <hi>Serratus minor Posticus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Serratus major Posticus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Bend as
+<list>
+                                 <item>
+                                    <hi>Musculi Recti Abdominis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Obliqui Ascendentes Abdominis.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Turn about <hi>Transversi.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Secondarily by the</item>
+                     <item>Lumbal Muscles, as
+<list>
+                           <item>Bent by <hi>Quadratus.</hi>
+                           </item>
+                           <item>Extended by the <hi>Sacer.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="92" facs="tcp:108870:54"/>
+               <p>The <hi>Abdo<g ref="char:EOLhyphen"/>men</hi> is prest
+<list>
+                     <item>Laterally by
+<list>
+                           <item>
+                              <hi>Obliqui Ascendentes.</hi>
+                           </item>
+                           <item>
+                              <hi>Obliqui Descendentes.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Forward by the <hi>Recti.</hi>
+                     </item>
+                     <item>Downward by
+<list>
+                           <item>
+                              <hi>Piramidales</hi> sometimes,</item>
+                           <item>or <hi>Transversi.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The Loyns are
+<list>
+                     <item>Bent by <hi>Quadratus.</hi>
+                     </item>
+                     <item>Extended by <hi>Sacer.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Stones are raised by <hi>Cremasteres.</hi>
+               </p>
+               <p>The Bladder
+<list>
+                     <item>Retains by <hi>Sphincter Vesicae.</hi>
+                     </item>
+                     <item>Excreates by
+<list>
+                           <item>
+                              <hi>Detrusor Ʋrinae.</hi>
+                           </item>
+                           <item>
+                              <hi>Piramidales.</hi>
+                           </item>
+                           <item>
+                              <hi>Obliqui Ascendentes Abdominis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="93" facs="tcp:108870:54"/>
+               <p>The <hi>Anus</hi> is
+<list>
+                     <item>Pursed up by <hi>Sphincter Ani.</hi>
+                     </item>
+                     <item>Elevated by <hi>Levatores Ani.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Penis</hi> is
+<list>
+                     <item>Erected by <hi>Erectores.</hi>
+                     </item>
+                     <item>Accelerated by <hi>Acceleratores.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Scapula</hi> is moved
+<list>
+                     <item>Variously by <hi>Cucullaris.</hi>
+                     </item>
+                     <item>Upward by <hi>Levator Patientiae.</hi>
+                     </item>
+                     <item>Backward by <hi>Rhomboides.</hi>
+                     </item>
+                     <item>Forwardly upwards by <hi>Serratus Minor Anticus.</hi>
+                     </item>
+                     <item>Forwardly downwards by <hi>Serratus Major Anticus.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="94" facs="tcp:108870:55"/>
+               <p>The <hi>Os Hu<g ref="char:EOLhyphen"/>meri</hi> is mo<g ref="char:EOLhyphen"/>ved
+<list>
+                     <item>Forward by <hi>Pectoralis.</hi>
+                     </item>
+                     <item>Upwards by
+<list>
+                           <item>
+                              <hi>Deltoidis.</hi>
+                           </item>
+                           <item>
+                              <hi>Octavus Humeri Placentini.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Downwards by <hi>Rotundus.</hi>
+                     </item>
+                     <item>Is carried about towards the
+<list>
+                           <item>External part by
+<list>
+                                 <item>
+                                    <hi>Superscapularis inferior.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Superscapularis superior.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Nonus Humeri Placentini.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Internal part by <hi>Subscapularis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Cubite</hi> is
+<list>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Gemellus Major.</hi>
+                           </item>
+                           <item>
+                              <hi>Gemellus Minor.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Biceps.</hi>
+                           </item>
+                           <item>
+                              <hi>Brachieus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="95" facs="tcp:108870:55"/>
+               <p>The <hi>Radius</hi> is
+<list>
+                     <item>Pronated by
+<list>
+                           <item>
+                              <hi>Quadratus.</hi>
+                           </item>
+                           <item>
+                              <hi>Teres.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Supinated by
+<list>
+                           <item>
+                              <hi>Longus.</hi>
+                           </item>
+                           <item>
+                              <hi>Brevis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The <hi>Carpus</hi> is
+<list>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Flexor Carpi interior.</hi>
+                           </item>
+                           <item>
+                              <hi>Flexor Carpi exterior.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Extensor Carpi interior.</hi>
+                           </item>
+                           <item>
+                              <hi>Extensor Carpi exterior.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="96" facs="tcp:108870:56"/>
+               <p>The Fingers are
+<list>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Flexor primi internodii.</hi>
+                           </item>
+                           <item>
+                              <hi>Flexor secundi internodii.</hi>
+                           </item>
+                           <item>
+                              <hi>Flexor tertii internodii.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Primus extendentium Digitorum.</hi>
+                           </item>
+                           <item>
+                              <hi>Secundus extendentium Digitorum.</hi>
+                           </item>
+                           <item>
+                              <hi>Interossei extendentium Digitorum.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Moved laterally by
+<list>
+                           <item>
+                              <hi>Interossei.</hi>
+                           </item>
+                           <item>
+                              <hi>Abductor Minimi.</hi>
+                           </item>
+                           <item>
+                              <hi>Abductor Indicis.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="97" facs="tcp:108870:56"/>
+               <p>The Thumb is
+<list>
+                     <item>Bended
+<list>
+                           <item>First, by
+<list>
+                                 <item>
+                                    <hi>Flexor primi internodii primus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Flexor secundi ejusdem internodii.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Secondly, by
+<list>
+                                 <item>
+                                    <hi>Primus Flexor internodii.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Secundus Flexor internodii.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tertius Flexor internodii.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Quartus Flexor internodii.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Thirdly, by <hi>Tertii internodii Flexor.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Extensor primus.</hi>
+                           </item>
+                           <item>
+                              <hi>Extensor secundus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Moved
+<list>
+                           <item>Laterally internal by <hi>Abducens.</hi>
+                           </item>
+                           <item>Laterally external.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="98" facs="tcp:108870:57"/>
+               <p>The Thigh is
+<list>
+                     <item>Extended
+<list>
+                           <item>Obliquely
+<list>
+                                 <item>Backward by <hi>Gluteus Major.</hi>
+                                 </item>
+                                 <item>Forward by <hi>Gluteus Medius.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Rightly by <hi>Gluteus Minimus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Bended
+<list>
+                           <item>Rightly by
+<list>
+                                 <item>
+                                    <hi>Psoas.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iliacus internus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>Obliquely by
+<list>
+                                 <item>
+                                    <hi>Triceps.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Lividus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Moved about
+<list>
+                           <item>Upward by <hi>Piriformis.</hi>
+                           </item>
+                           <item>Inward by <hi>Obturator externus.</hi>
+                           </item>
+                           <item>Outward by <hi>Obturator internus.</hi>
+                           </item>
+                           <item>Backward by <hi>Quadrageminus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="99" facs="tcp:108870:57"/>
+               <p>The Leg is
+<list>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Sartorius.</hi>
+                           </item>
+                           <item>
+                              <hi>Gracilis.</hi>
+                           </item>
+                           <item>
+                              <hi>Seminervosus.</hi>
+                           </item>
+                           <item>
+                              <hi>Semimembranosus.</hi>
+                           </item>
+                           <item>
+                              <hi>Biceps.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Membranosus.</hi>
+                           </item>
+                           <item>
+                              <hi>Rectus</hi>
+                           </item>
+                           <item>
+                              <hi>Vastus</hi>
+                              <list>
+                                 <item>
+                                    <hi>externus.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>internus.</hi>
+                                 </item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Obliquely moved by <hi>Suppopliteus.</hi>
+                     </item>
+                  </list>
+               </p>
+               <pb n="100" facs="tcp:108870:58"/>
+               <p>The Anckle is
+<list>
+                     <item>Extended by <hi>Gasterocnemius</hi>
+                        <list>
+                           <item>
+                              <hi>externus.</hi>
+                           </item>
+                           <item>
+                              <hi>internus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Tibiaeus Anticus.</hi>
+                           </item>
+                           <item>
+                              <hi>Peroneus secundus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Moved obliquely lateral
+<list>
+                           <item>Internally by <hi>Tibiaeus posticus.</hi>
+                           </item>
+                           <item>Externally by <hi>Peroneus primus.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="101" facs="tcp:108870:58"/>
+               <p>The four les<g ref="char:EOLhyphen"/>ser Toes are
+<list>
+                     <item>Bended by
+<list>
+                           <item>
+                              <hi>Perforans</hi> in the third Joynt.</item>
+                           <item>
+                              <hi>Lumbricales</hi> in the first Joynt.</item>
+                           <item>
+                              <hi>Perforatus</hi> in the second Joynt.</item>
+                        </list>
+                     </item>
+                     <item>Extended by
+<list>
+                           <item>
+                              <hi>Interossei</hi> in the first Joynt.</item>
+                           <item>
+                              <hi>Secundi internodii Tensor.</hi>
+                           </item>
+                           <item>
+                              <hi>Tertii internodii Tensor.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Obliquely moved by
+<list>
+                           <item>
+                              <hi>Interossei.</hi>
+                           </item>
+                           <item>
+                              <hi>Minimi digiti Abductor.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <pb n="102" facs="tcp:108870:59"/>
+               <p>The great Toe is
+<list>
+                     <item>Bended by <hi>Flexor.</hi>
+                     </item>
+                     <item>Extended by <hi>Tensor.</hi>
+                     </item>
+                     <item>Obliquely moved by <hi>Abductor.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The first Joynts of the Toes are kept together by <hi>Transversalis Placem.</hi>
+               </p>
+               <p>The Skin
+<list>
+                     <item>of the Sole of the Foot is moved by <hi>Plantaris.</hi>
+                     </item>
+                     <item>of the Palm of the Hand by
+<list>
+                           <item>
+                              <hi>Palmaris.</hi>
+                           </item>
+                           <item>
+                              <hi>Caro Musculosa quadrata.</hi>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb n="103" facs="tcp:108870:59"/>
+            <head>An Alphabetical Table of the Names of the Muscles, with the Page cited in which each Muscle is treated on.</head>
+            <div n="A" type="part">
+               <head>A</head>
+               <list>
+                  <item>A Periens palpebram rectus <hi>Page. 7</hi>
+                  </item>
+                  <item>Attollens Aurem <hi>Page. 11</hi>
+                  </item>
+                  <item>Adducens Aurem ad Anteriora <hi>Page. 12</hi>
+                  </item>
+                  <item>Abducens ad Posteriora Aurem <hi>ibid.</hi>
+                  </item>
+                  <item>Abducens Nasi Alam <hi>Page. 13</hi>
+                  </item>
+                  <item>Attollens Nasi Alam <hi>ibid.</hi>
+                  </item>
+                  <item>Abducens Labia <hi>Page. 15</hi>
+                  </item>
+                  <item>Arytenoideus <hi>Page. 25</hi>
+                  </item>
+                  <item>Accelerator penis <hi>Page. 32</hi>
+                  </item>
+                  <item>Abducens Pollicem <hi>Page. 80</hi>
+                  </item>
+                  <item>Abducens minimum Digitorum <hi>ibid.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="B" type="part">
+               <head>B</head>
+               <list>
+                  <item>BƲccinator <hi>Page. 17</hi>
+                  </item>
+                  <item>Biventer sive Digastricus <hi>Page. 19</hi>
+                  </item>
+                  <item>Biceps Humeri <hi>Page. 40</hi>
+                  </item>
+                  <item>Brachicus <hi>Page. 41</hi>
+                  </item>
+                  <item>Biceps Femoris <hi>Page. 73</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="C" type="part">
+               <head>C</head>
+               <list>
+                  <item>CLaudens sive Semicircular is superior Deprimens <hi>Page. 8</hi>
+                  </item>
+                  <item>Claudens Nasum externus <hi>Page. 14</hi>
+                  </item>
+                  <pb n="104" facs="tcp:108870:60"/>
+                  <item>Claudens Nasum internus <hi>Page. 14</hi>
+                  </item>
+                  <item>Communis Claudens Alas <hi>ibid.</hi>
+                  </item>
+                  <item>Caracohyoideus <hi>Page. 19</hi>
+                  </item>
+                  <item>Ceratoglossus <hi>Page. 22</hi>
+                  </item>
+                  <item>Cricothyroideus Anticus <hi>Page. 23</hi>
+                  </item>
+                  <item>Cephalopharyngaeus <hi>Page. 24</hi>
+                  </item>
+                  <item>Cricoarytenoideus Posticus <hi>ibid.</hi>
+                  </item>
+                  <item>Cricoarytenoideus Lateralis <hi>Page. 25</hi>
+                  </item>
+                  <item>Cremasteres <hi>Page. 31</hi>
+                  </item>
+                  <item>Cucularis <hi>Page. 34</hi>
+                  </item>
+                  <item>Caro Musculosa quadrata <hi>Page. 43</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="D" type="part">
+               <head>D</head>
+               <list>
+                  <item>DEtrahens Aurem <hi>Page. 11</hi>
+                  </item>
+                  <item>Detrusor Ʋrinae <hi>Page. 33</hi>
+                  </item>
+                  <item>Diaphragma <hi>ibid.</hi>
+                  </item>
+                  <item>Deltois <hi>Page. 39</hi>
+                  </item>
+                  <item>Digitorum <hi>2<seg rend="sup">di</seg>
+                     </hi> &amp; <hi>3<seg rend="sup">ii</seg>
+                     </hi> internodii tensor <hi>Page. 52</hi>
+                  </item>
+                  <item>Dorsi Longissimus <hi>Page. 61</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="E" type="part">
+               <head>E</head>
+               <list>
+                  <item>ERector penis <hi>Page. 31</hi>
+                  </item>
+                  <item>Extensor Carpi exterior <hi>Page. 51</hi>
+                  </item>
+                  <item>Extensor Carpi interior <hi>Page. 52</hi>
+                  </item>
+                  <item>Extensores primi internodii <hi>Page. 56</hi>
+                  </item>
+                  <item>Extensor secundi internodii digitorum <hi>Page. 83</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="F" type="part">
+               <pb n="105" facs="tcp:108870:60"/>
+               <head>F</head>
+               <list>
+                  <item>FRontalis <hi>Page. 7</hi>
+                  </item>
+                  <item>Flexor Carpi interior <hi>Page. 44</hi>
+                  </item>
+                  <item>Flexor Carpi exterior <hi>ibid.</hi>
+                  </item>
+                  <item>Flexor secundi internodii perforatus <hi>Page. 45</hi>
+                  </item>
+                  <item>Flexor tertii internodii perforans <hi>Page. 46</hi>
+                  </item>
+                  <item>Flexor tertii internodii pollicis <hi>ibid.</hi>
+                  </item>
+                  <item>Flexores primi internodii <hi>Page. 48</hi>
+                  </item>
+                  <item>Flexor digitorum tertii internodii per<g ref="char:EOLhyphen"/>forans <hi>Page. 77</hi>
+                  </item>
+                  <item>Flexor Pollicis <hi>Page. 78</hi>
+                  </item>
+                  <item>Flexor secundi internodii perforatus <hi>Page. 79</hi>
+                  </item>
+                  <item>Flexor primi internodii digitorum <hi>ibid.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="G" type="part">
+               <head>G</head>
+               <list>
+                  <item>GEniohyoideus <hi>Page. 21</hi>
+                  </item>
+                  <item>Genioglossus <hi>Page. 22</hi>
+                  </item>
+                  <item>Gemellus Major <hi>Page. 42</hi>
+                  </item>
+                  <item>Gemellus Minor <hi>ibid.</hi>
+                  </item>
+                  <item>Gluteus Major <hi>Page. 66</hi>
+                  </item>
+                  <item>Gluteus Medius <hi>ibid.</hi>
+                  </item>
+                  <item>Gluteus Minor <hi>Page. 67</hi>
+                  </item>
+                  <item>Gracilis <hi>Page. 71</hi>
+                  </item>
+                  <item>Gasterocnemius externus <hi>Page. 75</hi>
+                  </item>
+                  <item>Gasterocnemius internus <hi>Page. 76</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="H" type="part">
+               <pb n="106" facs="tcp:108870:61"/>
+               <head>H</head>
+               <list>
+                  <item>HYothyroideus <hi>Page. 20</hi>
+                  </item>
+                  <item>Hypsioglossus <hi>Page. 22</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="I" type="part">
+               <head>I</head>
+               <list>
+                  <item>INferior sive Attollens semicircularis <hi>Page. 8</hi>
+                  </item>
+                  <item>Internus externus Auris <hi>Page. 12</hi>
+                  </item>
+                  <item>Internus internissimus Auris <hi>Page. 13</hi>
+                  </item>
+                  <item>Intercostales externi <hi>Page. 30</hi>
+                  </item>
+                  <item>Intercostales interni <hi>Page. 31</hi>
+                  </item>
+                  <item>Interossei manus <hi>Page. 51</hi>
+                  </item>
+                  <item>Indicem Abducens <hi>Page. 55</hi>
+                  </item>
+                  <item>Iliacus internus <hi>Page. 65</hi>
+                  </item>
+                  <item>Interossei pedis <hi>Page. 83</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="L" type="part">
+               <head>L</head>
+               <list>
+                  <item>LAbii inferius Deprimens <hi>Page. 15</hi>
+                  </item>
+                  <item>Lingualis <hi>Page. 23</hi>
+                  </item>
+                  <item>Longus <hi>Page. 28</hi>
+                  </item>
+                  <item>Levatores Ani <hi>Page. 32</hi>
+                  </item>
+                  <item>Latissimus sive Ani-scalptor <hi>Page. 35</hi>
+                  </item>
+                  <item>Levator Patientiae <hi>Page. 36</hi>
+                  </item>
+                  <item>Lividus <hi>Page. 75</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="M" type="part">
+               <pb n="107" facs="tcp:108870:61"/>
+               <head>M</head>
+               <list>
+                  <item>MAssetor <hi>Page. 17</hi>
+                  </item>
+                  <item>Mastoideus <hi>Page. 18</hi>
+                  </item>
+                  <item>Mylohyoideus Riolani <hi>Page. 21</hi>
+                  </item>
+                  <item>Myloglossus <hi>ibid.</hi>
+                  </item>
+                  <item>Minimi digiti Abductor <hi>Page. 50</hi>
+                  </item>
+                  <item>Minimi digiti tensor <hi>Page. 53</hi>
+                  </item>
+                  <item>Membranosus <hi>Page. 70</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="N" type="part">
+               <head>N</head>
+               <list>
+                  <item>NOnus Humeri Placentinus <hi>Page. 38</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="O" type="part">
+               <head>O</head>
+               <list>
+                  <item>OBliquus Descendens <hi>Page. 4</hi>
+                  </item>
+                  <item>Obliquus Ascendens. <hi>Page. 5</hi>
+                  </item>
+                  <item>Obliquus primus oculi <hi>Page. 10</hi>
+                  </item>
+                  <item>Obliquus secundus sive Trocheus <hi>ibid.</hi>
+                  </item>
+                  <item>Oesophagiaeus <hi>Page. 23</hi>
+                  </item>
+                  <item>Octavus Humeri Placentini <hi>Page. 41</hi>
+                  </item>
+                  <item>Obliqui superiores <hi>Page. 60</hi>
+                  </item>
+                  <item>Obliqui inferiores <hi>ibid.</hi>
+                  </item>
+                  <item>Obturator internus <hi>Page. 68</hi>
+                  </item>
+                  <item>Obturator externus <hi>Page. 69</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="P" type="part">
+               <pb n="108" facs="tcp:108870:62"/>
+               <head>P</head>
+               <list>
+                  <item>PIramidalis sive Falopii <hi>Page. 6</hi>
+                  </item>
+                  <item>Par labium Constringens <hi>Page. 15</hi>
+                  </item>
+                  <item>Platasma Muodes <hi>Page. 16</hi>
+                  </item>
+                  <item>Pterigoeideus externus sive Adducens <hi>Page. 27</hi>
+                  </item>
+                  <item>Pterigoeideus internus sive Abducens <hi>ib.</hi>
+                  </item>
+                  <item>Pectoralis <hi>Page. 29</hi>
+                  </item>
+                  <item>Palmaris <hi>Page. 43</hi>
+                  </item>
+                  <item>Pronator Radii Teres <hi>Page. 47</hi>
+                  </item>
+                  <item>Pronator Quadratus <hi>ibid.</hi>
+                  </item>
+                  <item>Primi internodii pollicis flexor primus <hi>Page. 48</hi>
+                  </item>
+                  <item>Pollicis Abductor <hi>Page. 50</hi>
+                  </item>
+                  <item>Pollicis Adductor <hi>ibid.</hi>
+                  </item>
+                  <item>Pollicis tertii ossis tensor <hi>Page. 53</hi>
+                  </item>
+                  <item>Pollicis secundi &amp; tertii tensor <hi>Page. 54</hi>
+                  </item>
+                  <item>Psoas <hi>Page. 64</hi>
+                  </item>
+                  <item>Piriformis <hi>Page. 67</hi>
+                  </item>
+                  <item>Plantaris <hi>Page. 76</hi>
+                  </item>
+                  <item>Peroneus-primus <hi>Page. 81</hi>
+                  </item>
+                  <item>Peroneus secundus <hi>Page. 82</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="Q" type="part">
+               <head>Q</head>
+               <list>
+                  <item>QƲadratus <hi>Page. 64</hi>
+                  </item>
+                  <item>Quadrageminus <hi>Page. 69</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="R" type="part">
+               <pb n="109" facs="tcp:108870:62"/>
+               <head>R</head>
+               <list>
+                  <item>REctus Abdominis <hi>Page. 5</hi>
+                  </item>
+                  <item>Rectus oculi primus sive Elevator <hi>Page. 9</hi>
+                  </item>
+                  <item>Rectus secundus sive Depressor <hi>ibid.</hi>
+                  </item>
+                  <item>Rectus tertius sive Adducens <hi>ibid.</hi>
+                  </item>
+                  <item>Rectus quartus sive Abducens <hi>ibid.</hi>
+                  </item>
+                  <item>Rhomboidis <hi>Page. 36</hi>
+                  </item>
+                  <item>Rotundus <hi>ibid.</hi>
+                  </item>
+                  <item>Recti Majores <hi>Page. 59</hi>
+                  </item>
+                  <item>Recti Minores <hi>Page. 60</hi>
+                  </item>
+                  <item>Rectus <hi>Page. 71</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="S" type="part">
+               <head>S</head>
+               <list>
+                  <item>STernohyoideus <hi>Page. 19</hi>
+                  </item>
+                  <item>Sternothyroideus <hi>Page. 20</hi>
+                  </item>
+                  <item>Styloceratohyoideus <hi>ibid.</hi>
+                  </item>
+                  <item>Styloglossus <hi>Page. 22</hi>
+                  </item>
+                  <item>Stylopharyngaeus <hi>Page. 24</hi>
+                  </item>
+                  <item>Sphaenopharyngaeus primus <hi>Page. 26</hi>
+                  </item>
+                  <item>Sphaenopharyngaeus secundus <hi>ibid.</hi>
+                  </item>
+                  <item>Scalenus sive Triangularis <hi>Page. 28</hi>
+                  </item>
+                  <item>Subclavius <hi>Page. 29</hi>
+                  </item>
+                  <item>Seratus Major Anticus <hi>Page. 30</hi>
+                  </item>
+                  <item>Seratus Minor Anticus <hi>ibid.</hi>
+                  </item>
+                  <item>Sphincter Ani <hi>Page. 32</hi>
+                  </item>
+                  <item>Sphincter Vesicae <hi>Page. 33</hi>
+                  </item>
+                  <item>Superscapularis superior <hi>Page. 7</hi>
+                  </item>
+                  <pb n="110" facs="tcp:108870:63"/>
+                  <item>Superscapularis inferior <hi>Page. 38</hi>
+                  </item>
+                  <item>Subscapularis <hi>ibid.</hi>
+                  </item>
+                  <item>Secundus flexor primi internodii pollicis <hi>Page. 48</hi>
+                  </item>
+                  <item>Secundi internodii pollicis flexor
+<list>
+                        <item>Primus</item>
+                        <item>Secundus</item>
+                        <item>Tertius</item>
+                        <item>Quartus</item>
+                     </list>
+                     <hi>Page. 49</hi>
+                  </item>
+                  <item>Supinator Radii Longus <hi>Page. 53</hi>
+                  </item>
+                  <item>Supinator Radii Brevis <hi>Page. 55</hi>
+                  </item>
+                  <item>Seratus posticus superior <hi>Page. 56</hi>
+                  </item>
+                  <item>Seratus posticus inferior <hi>Page. 57</hi>
+                  </item>
+                  <item>Splenius sive Triangularis <hi>ibid.</hi>
+                  </item>
+                  <item>Spinatus <hi>Page. 59</hi>
+                  </item>
+                  <item>Sacrolumbus <hi>Page. 62</hi>
+                  </item>
+                  <item>Sacer <hi>Page. 63</hi>
+                  </item>
+                  <item>Semispinatus. <hi>ibid.</hi>
+                  </item>
+                  <item>Sartorius <hi>Page. 70</hi>
+                  </item>
+                  <item>Semimembranosus <hi>Page. 73</hi>
+                  </item>
+                  <item>Seminervosus <hi>Page. 74</hi>
+                  </item>
+                  <item>Suppopliteus <hi>Page. 77</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="T" type="part">
+               <head>T</head>
+               <list>
+                  <item>TRansversalis Abdominis <hi>Page. 6</hi>
+                  </item>
+                  <item>Temporalis <hi>Page. 18</hi>
+                  </item>
+                  <item>Thyroarytenoideus <hi>Page. 25</hi>
+                  </item>
+                  <item>Trigeminus <hi>Page. 58</hi>
+                  </item>
+                  <item>Transversalis Cervicis <hi>Page. 59</hi>
+                  </item>
+                  <pb n="111" facs="tcp:108870:63"/>
+                  <item>Triceps <hi>Page. 74</hi>
+                  </item>
+                  <item>Tibiaeus Posticus <hi>Page. 78</hi>
+                  </item>
+                  <item>Transversalis Placentini <hi>Page. 80</hi>
+                  </item>
+                  <item>Tibiaeus Anticus <hi>Page. 81</hi>
+                  </item>
+                  <item>Tensor Pollicis <hi>Page. 82</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="V" type="part">
+               <head>V</head>
+               <list>
+                  <item>VAstus externus <hi>Page. 72</hi>
+                  </item>
+                  <item>Vastus internus <hi>ibid.</hi>
+                  </item>
+               </list>
+            </div>
+            <div n="Z" type="part">
+               <head>Z</head>
+               <list>
+                  <item>ZYgomaticus Riolani <hi>Page. 15</hi>
+                  </item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
